@@ -2,24 +2,59 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
      
     <url>
-        <loc>http://www.abeenbhattacharya.com/blogshttp://wncc-iitb.org</loc>
+        <loc>http://localhost:4000/</loc>
     </url> 
     <url>
-        <loc>http://www.abeenbhattacharya.com/blogs/</loc>
-    </url> 
-    <url>
-        <loc>http://www.abeenbhattacharya.com/blogs/categories</loc>
-    </url> 
-    <url>
-        <loc>http://www.abeenbhattacharya.com/blogshttps://wncc-iitb.org/wiki/index.php/The_Web_and_Coding_Club</loc>
-    </url> 
-    <url>
-        <loc>http://www.abeenbhattacharya.com/blogshttps://portals.wncc-iitb.org/internships/login/</loc>
+        <loc>http://localhost:4000/categories</loc>
     </url>
     
     
     <url>
-        <loc>http://www.abeenbhattacharya.com/blogs/internship/first-commit</loc>
+        <loc>http://localhost:4000/internship/first-commit</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/internship/first-commit-copy</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/internship/first-commit-copy-9</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/internship/first-commit-copy-8</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/internship/first-commit-copy-7</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/internship/first-commit-copy-6</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/internship/first-commit-copy-5</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/internship/first-commit-copy-4</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/internship/first-commit-copy-3</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/internship/first-commit-copy-2</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/internship/first-commit-copy-11</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/internship/first-commit-copy-10</loc>
     </url>
     
 </urlset>

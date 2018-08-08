@@ -35,7 +35,7 @@ bing_verify:
 links:
   - title: Home
     url: http://wncc-iitb.org
-    external: false
+    external: true
     icon: home
   - title: Blogs
     url: /
@@ -43,8 +43,10 @@ links:
     url: /categories
   - title: Wiki
     url: https://wncc-iitb.org/wiki/index.php/The_Web_and_Coding_Club
+    external: true
   - title: Internship Portal
     url: https://portals.wncc-iitb.org/internships/login/
+    external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York

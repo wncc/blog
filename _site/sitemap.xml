@@ -2,59 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
      
     <url>
-        <loc>http://localhost:4000/</loc>
-    </url> 
-    <url>
         <loc>http://localhost:4000/categories</loc>
     </url>
     
     
     <url>
         <loc>http://localhost:4000/internship/first-commit</loc>
-    </url>
-    
-    <url>
-        <loc>http://localhost:4000/internship/first-commit-copy</loc>
-    </url>
-    
-    <url>
-        <loc>http://localhost:4000/internship/first-commit-copy-9</loc>
-    </url>
-    
-    <url>
-        <loc>http://localhost:4000/internship/first-commit-copy-8</loc>
-    </url>
-    
-    <url>
-        <loc>http://localhost:4000/internship/first-commit-copy-7</loc>
-    </url>
-    
-    <url>
-        <loc>http://localhost:4000/internship/first-commit-copy-6</loc>
-    </url>
-    
-    <url>
-        <loc>http://localhost:4000/internship/first-commit-copy-5</loc>
-    </url>
-    
-    <url>
-        <loc>http://localhost:4000/internship/first-commit-copy-4</loc>
-    </url>
-    
-    <url>
-        <loc>http://localhost:4000/internship/first-commit-copy-3</loc>
-    </url>
-    
-    <url>
-        <loc>http://localhost:4000/internship/first-commit-copy-2</loc>
-    </url>
-    
-    <url>
-        <loc>http://localhost:4000/internship/first-commit-copy-11</loc>
-    </url>
-    
-    <url>
-        <loc>http://localhost:4000/internship/first-commit-copy-10</loc>
     </url>
     
 </urlset>

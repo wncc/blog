@@ -1,8 +1,5 @@
-title:            WnCC Presents
-description:      "Blogs"
 logo:             logo.png
 logo1:            logo1.png
-disqus_shortname: hmfaysal
 share:            true
 # Change url to your domain. Leave localhost server or blank when working locally.
 # or use the hint from http://jekyllrb.com/docs/github-pages/ to keep this the same 
@@ -13,16 +10,7 @@ url:        	  http://www.abeenbhattacharya.com/blogs
 owner:
   name:           Web and Coding Club 
   avatar:         logo.png
-  email:          abeen9@gmail.com
-  # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    Awesome Dude, Awesome Life
-  # Social networking links used in footer. Update and remove as you like.
-  twitter:        hmfaysal
-  facebook:       hmfaysal
-  github:         hmfaysal      
-  instagram:      hmfaysal
-  # For Google Authorship https://plus.google.com/authorship
-  google_plus:    https://plus.google.com/u/0/102602916593522619858
+  email:          locacocinero@gmail.com
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:   
@@ -33,23 +21,12 @@ bing_verify:
 # Links to include in footer navigation
 # For external links add external: true
 links:
-  - title: Home
-    url: http://wncc-iitb.org
-    external: true
-    icon: home
-  - title: Blogs
-    url: /
   - title: Categories
     url: /categories
-  - title: Wiki
-    url: https://wncc-iitb.org/wiki/index.php/The_Web_and_Coding_Club
-    external: true
-  - title: Internship Portal
-    url: https://portals.wncc-iitb.org/internships/login/
-    external: true
+  # - title: Featured
+  #   url: /featured
 
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Asia/Calcutta
 future:      true
 highlighter: pygments
 markdown:    kramdown
@@ -64,9 +41,8 @@ kramdown:
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
-  enable_coderay: true
-
-  coderay:
+  syntax_highlighter: coderay
+  syntax_highlighter_opts:
     coderay_line_numbers: 
     coderay_line_numbers_start: 1
     coderay_tab_width: 4

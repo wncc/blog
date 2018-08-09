@@ -4,7 +4,7 @@ title: Nihal's internship at Mercari '18
 categories: internship
 tags:
   - mercari
-  - internship
+  - internships
 imagecredit: spreadeffect.com
 imagecreditlink: "http://www.spreadeffect.com/blog/improve-website-speed/"
 comments: true

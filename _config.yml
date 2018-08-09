@@ -30,11 +30,9 @@ timezone:    Asia/Calcutta
 future:      true
 highlighter: pygments
 markdown:    kramdown
-paginate:    5
-paginate_path: "page:num"
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:categories/:title
+permalink:   /:categories/:title:output_ext
 
 kramdown:
   auto_ids: true
@@ -49,12 +47,9 @@ kramdown:
     coderay_bold_every: 10
     coderay_css: class
 
-plugins: [jekyll-paginate]
 
 prose:
   rooturl: '_posts'
-  siteurl: 'http://hmfaysal.github.io/'
-  relativeLinks: 'http://hmfaysal.github.io/links.jsonp'
   media: 'images'
   metadata:
     _posts:
@@ -95,18 +90,8 @@ prose:
           placeholder: "Choose categories"
           value: personal
           options:
-            - name: "Personal"
-              value: personal
-            - name: "Engineering"
-              value: engineering
-            - name: "Physics"
-              value: physics
-            - name: "Psychology"
-              value: psychology
-            - name: "Interesting"
-              value: interesting
-            - name: "Web-Development"
-              value: webdevelopment
+            - name: "GSoC"
+              value: gsoc
             - name: "Internship"
               value: internship
           alterable: true

@@ -12,7 +12,7 @@ published: true
 author_name: Nihal Singh
 author_website: nihal111.github.io
 author_image: https://avatars1.githubusercontent.com/u/13916513?v=2&s=460
-author_description: Nihal Singh is from a senior undergraduate from the Civil Department. He likes open source, hackathons, game dev and good metal music.
+author_description: Nihal Singh is a senior undergraduate from the Civil Department. He likes open source, hackathons, game dev and good metal music.
 ---
 
 *The following has been adapted from the author's blog. Access the original version [here](https://nihal111.github.io/2018/07/09/mercari-internship.html).*

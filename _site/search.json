@@ -6,6 +6,46 @@
 		  "url"        : "https://blog.wncc-iitb.org/internship/nihal-mercari.html",
 		  "date"       : "2018-07-16 00:00:00 +0530",
 		  "shortdate"  : "July 16, 2018"
+		} ,
+	
+		{
+		  "title"      : "Dhanvi&#39;s internship at HUL &#39;18",
+		  "category"   : "",
+		  "url"        : "https://blog.wncc-iitb.org/internship/dhanvi-HUL.html",
+		  "date"       : "2018-07-16 00:00:00 +0530",
+		  "shortdate"  : "July 16, 2018"
+		} ,
+	
+		{
+		  "title"      : "Meet&#39;s internship at Amazon &#39;17",
+		  "category"   : "",
+		  "url"        : "https://blog.wncc-iitb.org/internship/udiboy-amazon.html",
+		  "date"       : "2017-07-16 00:00:00 +0530",
+		  "shortdate"  : "July 16, 2017"
+		} ,
+	
+		{
+		  "title"      : "Kalpesh&#39;s internship at UChicago &#39;17",
+		  "category"   : "",
+		  "url"        : "https://blog.wncc-iitb.org/internship/kalpesh-uchicago.html",
+		  "date"       : "2017-07-16 00:00:00 +0530",
+		  "shortdate"  : "July 16, 2017"
+		} ,
+	
+		{
+		  "title"      : "Kumar Ayush&#39;s Internship at Université du Luxembourg &#39;17",
+		  "category"   : "",
+		  "url"        : "https://blog.wncc-iitb.org/internship/luxembourg-cheeku.html",
+		  "date"       : "2017-07-13 00:00:00 +0530",
+		  "shortdate"  : "July 13, 2017"
+		} ,
+	
+		{
+		  "title"      : "Abhijit Tomar&#39;s Internship at Microsoft IDC &#39;16",
+		  "category"   : "",
+		  "url"        : "https://blog.wncc-iitb.org/internship/tomar-idc.html",
+		  "date"       : "2016-07-16 00:00:00 +0530",
+		  "shortdate"  : "July 16, 2016"
 		} 
 	
 ]

@@ -15,7 +15,7 @@ featured: true
 published: true
 author_name: Kumar Ayush
 author_email: cheekujodhpur@gmail.com
-author_image: https://cheekujodhpur.github.io/images/me_emily.jpg
+author_image: http://cheekujodhpur.github.io/images/me_emily.jpg
 author_description: I like astrophysics. I like scientific computation. I like HPC. I like ML. I also like cooking and travel. You are very good person.
 ---
 
@@ -33,7 +33,7 @@ I started to believe that sticking to my interests is arrogant. It would be a go
 About the Group
 The group is led by Prof. Thomas Schmidt, and I would quote his homepage
 
-    Within this project about modern mesoscopic systems, my group investigates topological insulators, one-dimensional quantum systems, as well as nanomechanical systems in the quantum regime.
+Within this project about modern mesoscopic systems, my group investigates topological insulators, one-dimensional quantum systems, as well as nanomechanical systems in the quantum regime.
 
 # About the Work
 #### My Work Space
@@ -58,4 +58,4 @@ Our major travels can be described as Paris, Amsterdam, Cologne and small towns 
 We have made good relations with a lot of people in the University. Enough of them will likely last an eternity, at least in our memories. The most mature friendship I had was with Anuj's professor and the HoD here, Prof. Ludger Wirtz. We had no professional things to discuss. We work on different things. All our discussions used to be about light topics or heavy philosophies.
 Every Tuesday, me and Anuj went to a local Board Games meetup. We went to some other local events and parties as well.
 
-# Thank you for reading!
+**Thank you for reading!**

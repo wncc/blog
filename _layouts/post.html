@@ -46,7 +46,7 @@
             <div class="bg-img"></div>
         </header>
         <button class="trigger bg-check" data-info="Read more"><span>Trigger</span></button>
-        {% if page.imagefeature %}<img src="{{ site.url }}/images/{{ page.imagefeature }}" alt="cover-image" />{% endif %}
+        {% if page.imagefeature %}<img src="{{ page.imagefeature }}" alt="cover-image" />{% endif %}
         <article class="summer-post-content post">
             <div>{{ content }}
             </div>

@@ -4,7 +4,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="https://blog.wncc-iitb.org/feed.xml" />
 <link rel="alternate" type="text/html" href="https://blog.wncc-iitb.org" />
-<updated>2018-08-11T14:58:03+05:30</updated>
+<updated>2018-08-11T15:24:10+05:30</updated>
 <id>https://blog.wncc-iitb.org/</id>
 <author>
   <name>Web and Coding Club</name>
@@ -141,58 +141,73 @@
   <title type="html"><![CDATA[Kalpesh's internship at UChicago '17]]></title>
   <link>https://blog.wncc-iitb.org/internship/kalpesh-uchicago.html</link>
   <id>https://blog.wncc-iitb.org/internship/kalpesh-uchicago</id>
-  <published>2017-07-16T00:00:00+05:30</published>
-  <updated>2017-07-16T00:00:00+05:30</updated>
+  <published>2017-07-18T00:00:00+05:30</published>
+  <updated>2017-07-18T00:00:00+05:30</updated>
   <author>
     <name>Web and Coding Club</name>
     <uri>https://blog.wncc-iitb.org</uri>
     <email>locacocinero@gmail.com</email>
   </author>
-  <content type="html">&lt;p&gt;“Do you see that old building on the left? That’s the Chicago Post Office. That’s where Joker robbed the bank. Right in front of us you can see the Sears Tower, the second tallest building of the Western Hemisphere. That’s where Batman would spend his nights surveying Gotham!”, exclaimed the tour guide during the architecture boat cruise. I’m very fortunate to be spending summer 2017 at Chicago, USA. I’m working at TTIC, which is a computer science institute at The University of Chicago.&lt;/p&gt;
+  <content type="html">&lt;p&gt;It’s been a week at Chicago and I’m having a really unique experience here. As I mentioned in my previous post, I have been selected as a visiting researcher at the Toyota Technological Institute at Chicago, a CS research institute located on the University of Chicago campus. Life is so different here, in both good and bad ways. I will be in Chicago for seven more weeks, working on encoders for automatic speech recognition tasks.&lt;/p&gt;
 
-&lt;h1 id=&quot;getting-there&quot;&gt;Getting There&lt;/h1&gt;
+&lt;h1 id=&quot;arrival&quot;&gt;Arrival&lt;/h1&gt;
 
-&lt;p&gt;In my winter vacations, I’d started working on a project at the CSE Department in IIT Bombay on language modelling. During the month of February 2017, my professor recommended me to apply to three university research programs including TTIC’s. TTIC’s selection program did not have any interview, but it included two recommendation letters and a personal statement. I got through two of the three programs and decided to go ahead with TTIC since it had a great research group and a flexible schedule.&lt;/p&gt;
+&lt;p&gt;I arrived on 21st May after a comfortable 16 hour Air India flight. The &lt;a href=&quot;http://www.flychicago.com/ohare/home/pages/default.aspx&quot;&gt;O’Hare Airport&lt;/a&gt; had a very small international arrival section, and I couldn’t find any SIM card or shuttle stores. I decided to go to UChicago by taxi (A 45km ride), which cost me whopping 61$! My friend, &lt;a href=&quot;https://www.linkedin.com/in/vishnu-nair-9393a34b/?ppe=1&quot;&gt;Vishnu Nair&lt;/a&gt;, an alumni of IIT Bombay showed me around the place and helped me get setup. It’s a really amazing campus, with ivy covered buildings, ancient architecture, huge gardens and the most stunning libraries I’ve ever seen. UChicago is world renowned for its programs in pure science, arts, mathematics and CS theory. There are no clear-cut engineering departments here, and most of the engineering is integrated with the sciences. I walked a lot on my first day and got myself a number of useful items such as a SIM card and public transport card. I opened up my bank account and got a UChicago identity card on the following day.&lt;/p&gt;
 
-&lt;p&gt;I had a hard time with the J-1 visa, which delayed my internship by three weeks. Unfortunately, the HR head of TTIC was not working in the first half of April, which delayed my DS-2019 (a document necessary to apply for the visa). Luckily, my application was accepted immediately after the interview and I left for Chicago on 20th May. (I’ve blogged about the J-1 process!)&lt;/p&gt;
+&lt;p class=&quot;center&quot;&gt;&lt;img src=&quot;http://martiansideofthemoon.github.io/assets/uchicago-ivy.jpg&quot; alt=&quot;Gear&quot; title=&quot;Gear&quot; style=&quot;max-height: 500px;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;The day I arrived, I was lucky to be hosted by an IITB alumnus (Vishnu Nair), who showed me around UChicago and helped me get setup.&lt;/p&gt;
+&lt;p class=&quot;center&quot;&gt;&lt;img src=&quot;http://martiansideofthemoon.github.io/assets/uchicago-park.jpg&quot; alt=&quot;Gear&quot; title=&quot;Gear&quot; style=&quot;max-height: 500px;&quot; /&gt;&lt;/p&gt;
 
-&lt;h1 id=&quot;the-university-of-chicago&quot;&gt;The University of Chicago&lt;/h1&gt;
+&lt;h1 id=&quot;first-work-day&quot;&gt;First Work Day&lt;/h1&gt;
+&lt;p&gt;I first visited TTIC on my second day (22nd May), for an HR orientation and a meeting with my advisors. TTIC is a small CS-oriented institute which is doing some amazing work in Machine Learning and CS Theory. After a short HR meeting, I finally met my advisors, &lt;a href=&quot;http://ttic.uchicago.edu/~llu/&quot;&gt;Liang Lu&lt;/a&gt;, &lt;a href=&quot;http://ttic.uchicago.edu/~kgimpel/&quot;&gt;Kevin Gimpel&lt;/a&gt; and &lt;a href=&quot;http://ttic.uchicago.edu/~klivescu&quot;&gt;Karen Livescu&lt;/a&gt;, all of whom are working on speech and language processing. Since I had some setup work remaining, we decided to push our meeting for the next day. I attended a talk by &lt;a href=&quot;http://cs.iit.edu/~culotta/&quot;&gt;Aron Culotta&lt;/a&gt; at TTIC the same day before finally heading out to finish my setup chores. By evening, I was given a computer (with a cool GPU) to work on, access to the TTIC computation clusters and met up with all the other awesome people working in the &lt;a href=&quot;http://ttic.uchicago.edu/~klivescu/SLATTIC/&quot;&gt;SLATTIC&lt;/a&gt; group at TTIC.&lt;/p&gt;
 
-&lt;p&gt;The University of Chicago is one of the best places in the world to study pure science, mathematics, arts and business. Our ex-RBI governor Raghuram Rajan is a professor at UChicago’s business school. Unlike most colleges, it does not have clear-cut engineering programs. It’s a really amazing campus, with ivy covered buildings, archaic architecture, huge gardens and the most stunning libraries I’ve ever seen. The college is extremely academics oriented, and you will rarely find the libraries even half-empty. Since the streets and surrounding neighbourhoods aren’t the safest areas, you won’t find much activity on the streets after it gets dark. Luckily, UChicago houses one of the largest private police force in the world, which patrols the campus throughout the day.&lt;/p&gt;
+&lt;p&gt;In the evening, I met my roommate &lt;a href=&quot;https://www.facebook.com/thearasuarun&quot;&gt;Arasu Arun&lt;/a&gt;, who is also working at TTIC this summer on CS theory. Thus began a unqiue week of adventures of living truly on my own!&lt;/p&gt;
 
-&lt;p class=&quot;center&quot;&gt;&lt;img src=&quot;https://summerblog.insightiitb.org/wp-content/uploads/2017/06/uchicago-ivy-768x432.jpg&quot; alt=&quot;Gear&quot; title=&quot;Gear&quot; style=&quot;max-height: 500px;&quot; /&gt;&lt;/p&gt;
+&lt;h1 id=&quot;living-alone&quot;&gt;Living Alone&lt;/h1&gt;
 
-&lt;h1 id=&quot;ttic--work&quot;&gt;TTIC &amp;amp; Work&lt;/h1&gt;
-
-&lt;p&gt;TTIC is a graduate computer science institute in The University of Chicago. It primarily focuses on theoretical computer science, machine learning and bioinformatics research and has some excellent faculty. Since it’s a relatively small setup (roughly 1:1 faculty-student ratio), it’s an extremely informal environment. The research atmosphere at TTIC is amazing! Every week, there are tons of reading groups, distinguished lecture series and course lectures. I’ve been lucky enough to attend talks by Junyoung Chung, Erik Learned-Miller and I’m really looking forward to next week’s talk by the head of Google Translate, Mike Schuster! I’m hoping to lead one reading group session towards the end of the internship.&lt;/p&gt;
-
-&lt;p&gt;I’m working at the SLATTIC group, guided by three awesome professors. It’s a really diverse set of people and I love listening to their PhD stories and their discussions on AI and Computer Science. My project is on modern end-to-end Automatic Speech Recognition systems, the heart of today’s Siri and Cortana. I’m trying to build encoder architectures to speed up the training procedure for Connectionist Temporal Classification, one of the two state-of-the-art techniques for ASR systems. Unfortunately, ASR is a hard problem and training neural networks for speech recognition can often be challenging and tedious. Typical state-of-the-art architectures take 4-5 days to train and need expensive GPUs to make this possible. Luckily, TTIC has a really good GPU cluster and automation, which I’ve been trying to make the most of in the last couple of weeks. Along with the project, I’m trying to make some tools to increase research efficiency. A typical day of work here generally starts with reading an ASR paper, attending a talk / reading group, excellent discussions during lunch and a lot of programming (and debugging!). Towards the evening, I spend 1-2 quality hours ideating or reading in the Mansueto Library, my favourite place at UChicago.&lt;/p&gt;
+&lt;p&gt;One of the highlights of this week has been the experience of living on my own. It’s the first time that I’ve stepped into the kitchen and managed to cook (and sometimes undercook) simple stuff. Arasu has never cooked earlier either, so it’s fun experimenting together in the kitchen. This has also required regular visits to the American grocery shops, weekly laundry, washing utensils and keeping the house clean.&lt;/p&gt;
 
 &lt;p class=&quot;center&quot;&gt;&lt;img src=&quot;https://summerblog.insightiitb.org/wp-content/uploads/2017/06/mansueto-768x432.jpg&quot; alt=&quot;Gear&quot; title=&quot;Gear&quot; style=&quot;max-height: 500px;&quot; /&gt;&lt;/p&gt;
 
-&lt;h1 id=&quot;accommodation-transport-and-food&quot;&gt;Accommodation, Transport and Food&lt;/h1&gt;
+&lt;h1 id=&quot;the-good-parts&quot;&gt;The Good Parts&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Research Atmosphere&lt;/strong&gt; - The environment at TTIC is absolutely amazing. The whole institute has just about 25 professors, 40-45 PhD students, 10 administrative staff and 15 interns, so it’s a really close knit group. There are reading groups, institute lectures, course lectures and group meetings every week, and I’ve spent most of my first week attending each of these research talks (I’ve attended roughly five in just 4 days!). While I find it hard to follow many of them (due to a limited ML background), it’s inspiring to see good ideas being extensively discussed.&lt;/p&gt;
 
-&lt;p&gt;I’ve been living at an apartment sublet with another TTIC intern from IIT Hyderabad. Housing is generally quite expensive in Chicago and it was a hard time searching for a reasonably priced housing for our duration of stay, and we finally settled for a 4 week sublease. My current house is 1 KM from TTIC and I generally go around on foot, walking about 4 KM daily due to the library visits. Chicago has a good cheap public transport system, and most of my longer trips are by CTA’s buses.&lt;/p&gt;
+    &lt;p&gt;I generally have lunch with the other people in &lt;a href=&quot;http://ttic.uchicago.edu/~klivescu/SLATTIC/&quot;&gt;SLATTIC&lt;/a&gt;, so it’s fun to discuss ideas with them and get to know about their backgrounds. In a week, I already feel close to a lot of &lt;a href=&quot;http://ttic.uchicago.edu/~klivescu/SLATTIC/&quot;&gt;SLATTIC&lt;/a&gt; members.
+I have a cubicle and a whiteboard to myself along with a printer next door, so it’s pretty convenient for me to print research papers and immediately begin reading them in a printed format.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Computation Infrastructure&lt;/strong&gt; - While I’ve not used this extensively yet, the clusters are pretty good for research work. The IT director at TTIC has setup a good automated system to schedule jobs making research a lot faster. I really should start using it soon! The internet speed is the best I’ve seen so far, reaching close to a 1 Gbps.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Libraries&lt;/strong&gt; - Like I mentioned earlier, the seven libraries / reading rooms on-campus are amazing buildings. I’ve heard they boast an extensive collection of books and an automated system to fetch them. In fact, I’m writing this blog sitting in the one pictured below!&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Food has been a real issue since I don’t know how to cook. I don’t really enjoy the non-vegetarian food here, but sadly it’s hard to find anything else. Nonetheless, Chicago is known for its deep-crust pizza, and it certainly lives up to its reputation!&lt;/p&gt;
+&lt;h1 id=&quot;the-bad-parts&quot;&gt;The Bad Parts&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Crime in Chicago&lt;/strong&gt; - This is a serious issue, and every week a crime is reported in the campus despite extensive patrol by the UChicago Police Department. There are strict instructions to stay indoors after 8:00PM (VERY unlike IIT Bombay), since the night-time is supposed to be the most unsafe. As a result, I generally begin work quite early (at about 8:30AM) and never work after 6:00PM. The campus is a bit lonely in the more residential areas and you need to keep an eye while you move around.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Food&lt;/strong&gt; - I’ve not really enjoyed the food here (atleast so far, since I’ve been experimenting a lot). While the salads and fruits are good, I’ve not particularly enjoyed the non-veg food or some of the ready-to-eat food. It’s not super expensive (like in London), but perhaps 2-2.5 times the equivalent INR price. Meals are eaten a lot earlier in USA, and I’m generally eating my dinners at 7:00PM.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;General Fatigue&lt;/strong&gt; - Unlike India, I seem to be getting a lot more tired here, despite the additional hours of sleep. Perhaps this is typical of a grad-school sort of life, where it’s a lot more tiring to work on the same problem all day, or it might just be due to the weather / long walks. I sometimes feel more inefficient here when compared to IIT Bombay, where I end up working 24x7 on some weeks.&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;h1 id=&quot;chicago--tourism&quot;&gt;Chicago &amp;amp; Tourism&lt;/h1&gt;
+&lt;h1 id=&quot;mixed-feelings&quot;&gt;Mixed Feelings&lt;/h1&gt;
 
-&lt;p&gt;Chicago is popularly called “The Windy City”. It’s got really unpredictable ever-changing weather, and I’ve had my share of severe thunderstorms, Mumbai-like heat and of course the crazy winds. While often defamed for its crime rate, most neighbourhoods are pretty safe. Located on Lake Michigan, Chicago is known for its bold architecture and skyline. So far I’ve visited Millennium Park, Shedd Aquarium, Navy Pier and the brilliant Architecture River Cruise. I also visited a really expensive theatre to watch Pirates of the Caribbean (big mistake). Hopefully I will hopefully cover all the major tourist attractions here by the end of my trip including a long cycling tour along Lake Michigan!&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Weather&lt;/strong&gt; - The weather this week has been really erratic. While its extremely pleasant and windy while the sun is out, it gets pretty cold with overcast skies and rain. Luckily, I’m not visiting during the winter months which are supposed to be the worst. Nevertheless, the cool weather is an good change from the Indian summer heat, and it’s likely to be more sunny in the coming days.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Extracurricular Events&lt;/strong&gt; - There seem to be less social extra-curricular events here when compared to IIT Bombay. While it’s likely that I’m unaware of what’s going on in campus, I get the feeling that UChicago is more of an academic oriented college having strong graduate programs, with a strong focus on academia, which is both good and bad. However, this opinion is likely to change as the summer progresses.&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p class=&quot;center&quot;&gt;&lt;img src=&quot;https://summerblog.insightiitb.org/wp-content/uploads/2017/06/sears_tower-768x432.jpg&quot; alt=&quot;Gear&quot; title=&quot;Gear&quot; style=&quot;max-height: 500px;&quot; /&gt;&lt;/p&gt;
+&lt;h1 id=&quot;work-experience&quot;&gt;Work Experience&lt;/h1&gt;
 
-&lt;p&gt;While a lot of things are much easier in USA, I get the feeling that people don’t like being dependent on others here. The streets are generally lonely on weekends and lots of residents tell me that the social life is really lacking here. Most shops generally close by 6pm, and most of the neighbourhoods are pretty deserted after sunset, making it too unsafe to loiter on the streets at midnight – something I’m so used to doing at IITB! Nevertheless, downtown Chicago is full of activity and tourists 24x7 with concerts and shows happening all year long.&lt;/p&gt;
-
-&lt;p class=&quot;center&quot;&gt;&lt;img src=&quot;https://summerblog.insightiitb.org/wp-content/uploads/2017/06/museum_campus-768x432.jpg&quot; alt=&quot;Gear&quot; title=&quot;Gear&quot; style=&quot;max-height: 500px;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;While interactions with my advisors have been great so far, my progress has been on the slower side. I suppose this is because a few days went in a general setup and adjustment, and I’ve spent a lot of time attending talks and reading groups. I really wish I was interning here for longer, (perhaps 10-12 weeks), since it would give me a stronger chance to finish substantial work. I’m currently working on encoders to improve Automatic Speech Recognition systems. I hope to implement dilated CNNs in place of regular bidirectional LSTMs and compare their performance over the next few weeks. I’ve also been reading a lot of papers in speech recognition, and it’s a really vibrant field with a lot of ongoing research. In my free time this week, I completed &lt;a href=&quot;http://pgbovine.net/PhD-memoir/pguo-PhD-grind.pdf&quot;&gt;The PhD Grind&lt;/a&gt;, a really interesting Stanford PhD memoir.&lt;/p&gt;
 
 &lt;h1 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h1&gt;
 
-&lt;p&gt;I’m close to halfway through my internship and it’s been a great experience so far. Work has been progressing slow up till now, but I’m hoping to speed up towards the second half. I’ve learnt a lot of academic and non-academic things, and I’m really looking forward to the next four weeks at Chicago!&lt;/p&gt;
+&lt;p&gt;This week has been unlike anything I’ve experienced so far. I hope to visit lake Michigan and a museum tomorrow, which is a holiday due to Memorial Day. I think my work will soon pace up, and hopefully I’ll have a good technical story to tell at the end of the internship. Overall I’m quite happy and really excited about the adventures which are to follow!&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;https://blog.wncc-iitb.org/internship/kalpesh-uchicago.html&quot;&gt;Kalpesh's internship at UChicago '17&lt;/a&gt; was originally published by Web and Coding Club at &lt;a href=&quot;https://blog.wncc-iitb.org&quot;&gt;&lt;/a&gt; on July 16, 2017.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;https://blog.wncc-iitb.org/internship/kalpesh-uchicago.html&quot;&gt;Kalpesh's internship at UChicago '17&lt;/a&gt; was originally published by Web and Coding Club at &lt;a href=&quot;https://blog.wncc-iitb.org&quot;&gt;&lt;/a&gt; on July 18, 2017.&lt;/p&gt;</content>
 </entry>
 
 
@@ -220,8 +235,7 @@ I did not have luck with my applications before I got the offer for Luxembourg. 
 About the Group
 The group is led by Prof. Thomas Schmidt, and I would quote his homepage&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;Within this project about modern mesoscopic systems, my group investigates topological insulators, one-dimensional quantum systems, as well as nanomechanical systems in the quantum regime.
-&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Within this project about modern mesoscopic systems, my group investigates topological insulators, one-dimensional quantum systems, as well as nanomechanical systems in the quantum regime.&lt;/p&gt;
 
 &lt;h1 id=&quot;about-the-work&quot;&gt;About the Work&lt;/h1&gt;
 &lt;h4 id=&quot;my-work-space&quot;&gt;My Work Space&lt;/h4&gt;
@@ -246,7 +260,7 @@ The group is led by Prof. Thomas Schmidt, and I would quote his homepage&lt;/p&g
 &lt;p&gt;We have made good relations with a lot of people in the University. Enough of them will likely last an eternity, at least in our memories. The most mature friendship I had was with Anuj’s professor and the HoD here, Prof. Ludger Wirtz. We had no professional things to discuss. We work on different things. All our discussions used to be about light topics or heavy philosophies.
 Every Tuesday, me and Anuj went to a local Board Games meetup. We went to some other local events and parties as well.&lt;/p&gt;
 
-&lt;h1 id=&quot;thank-you-for-reading&quot;&gt;Thank you for reading!&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Thank you for reading!&lt;/strong&gt;&lt;/p&gt;
 
   &lt;p&gt;&lt;a href=&quot;https://blog.wncc-iitb.org/internship/luxembourg-cheeku.html&quot;&gt;Kumar Ayush's Internship at Université du Luxembourg '17&lt;/a&gt; was originally published by Web and Coding Club at &lt;a href=&quot;https://blog.wncc-iitb.org&quot;&gt;&lt;/a&gt; on July 13, 2017.&lt;/p&gt;</content>
 </entry>
@@ -263,13 +277,13 @@ Every Tuesday, me and Anuj went to a local Board Games meetup. We went to some o
     <uri>https://blog.wncc-iitb.org</uri>
     <email>locacocinero@gmail.com</email>
   </author>
-  <content type="html">&lt;p&gt;&lt;em&gt;The following has been adapted from the insight-iitb. Access the original version &lt;a href=&quot;https://summerblog.insightiitb.org/amazon-meet-udeshi/&quot;&gt;here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+  <content type="html">&lt;p&gt;&lt;em&gt;The following has been adapted from the author’s personal blog. Access the original version &lt;a href=&quot;http://udiboy1209.github.io/2017-06-12-its-still-day-1/&quot;&gt;here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;intern-blog&quot;&gt;Intern Blog&lt;/h1&gt;
 
 &lt;p&gt;As I sit on my desk in Amazon Bangalore Office, with two widescreen monitors and a Macbook pro, I wonder what am I doing. I mean it’s 12:30 in the afternoon here, I just walked in half an hour ago, and I’m writing my intern blog. What I’m really doing is waiting for a review on a wiki I wrote describing two possible approaches to the problem given to me to solve for the duration of my internship. It’s the third time I have reminded my mentor to review it, but he doesn’t seem interested at all and is busy in back to back meetings since yesterday. Maybe that’s what it’s like to work in large MNCs, lots of planning and little implementation. Here goes my two cents on the Great Customer-centric Amazon Company summer internship.&lt;/p&gt;
 
-&lt;p class=&quot;center&quot;&gt;&lt;img src=&quot;https://summerblog.insightiitb.org/wp-content/uploads/2017/06/amazon1-1.jpg&quot; alt=&quot;Gear&quot; title=&quot;Gear&quot; style=&quot;max-height: 500px;&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;center&quot;&gt;&lt;img src=&quot;http://udiboy1209.github.io/assets/blog/amazon_desk.jpg&quot; alt=&quot;Gear&quot; title=&quot;Gear&quot; style=&quot;max-height: 500px;&quot; /&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;selection-process&quot;&gt;Selection process&lt;/h1&gt;
 &lt;p&gt;Amazon comes to IITB one, two months into the season when the intern fever has settled down. It was open for all departments and had no CPI cut-off, which is how an EE Dual 7-pointer got in :P. For a person like me, that was enough to make me apply for the intern. The interview was like any other Software Dev interview would be – an online selection test on DSA and multiple one-on-one rounds of DSA questions. The interviewers we had were pretty indulgent and interactive while asking questions, up to the point where it almost felt like a discussion.
@@ -289,9 +303,10 @@ It all feels surreal when you think about the sheer scale any single piece of co
 
 &lt;h1 id=&quot;my-project&quot;&gt;My project&lt;/h1&gt;
 &lt;p&gt;What my team does is a pretty long and boring story, and the task I’ve been assigned is a little automation to be done on their existing system to make things easier for the existing developers. It has to deal with the accounting of USPS based shipments.
-The work essentially involves working with SQS queues to filter and keep some messages on standby for certain duration, then redrive them back to the main flow. Everything here extensively uses AWS, obviously. And if nothing, I’ll surely learn how to use AWS services very efficiently. Because that is exactly what I’ve been planning for the past week XD . How should we store the messages? what data model would be most efficient? what are the pros and cons of the two approaches? I’ve been wanting to tell them, let’s just implement it and see, but that may invite unnecessary negative criticism. Well, honestly that’s what has bored me up till now, probably because we all are so used to the Implement-it-then-analyse-it strategy that we so passionately follow in college. Maybe that’s why the people here also tell me to not trust StackOverflow, and to always deep-dive into the documentation. But they’re the same people who tell me vim kills my productivity and you lose all your trust in them at that point 😛 . I mean, I’m writing this frickin blog in vim, and they tell me to code in IntelliJ.
-No more ranting, I promise
-Enough with the rant, now. While there is enough to sulk at, there’s loads to enjoy in this place too! Bengaluru city is awesome for those who like partying, and night-life here is pretty cool! Amazon teams go on one-day office outings to some place nearby – we were lucky enough to go to Club Cabana, and spend a day full of bowling, pool-side fun and other indulgences… :D.amazon2
+The work essentially involves working with SQS queues to filter and keep some messages on standby for certain duration, then redrive them back to the main flow. Everything here extensively uses AWS, obviously. And if nothing, I’ll surely learn how to use AWS services very efficiently. Because that is exactly what I’ve been planning for the past week XD . How should we store the messages? what data model would be most efficient? what are the pros and cons of the two approaches? I’ve been wanting to tell them, let’s just implement it and see, but that may invite unnecessary negative criticism. Well, honestly that’s what has bored me up till now, probably because we all are so used to the Implement-it-then-analyse-it strategy that we so passionately follow in college. Maybe that’s why the people here also tell me to not trust StackOverflow, and to always deep-dive into the documentation. But they’re the same people who tell me vim kills my productivity and you lose all your trust in them at that point 😛 . I mean, I’m writing this frickin blog in vim, and they tell me to code in IntelliJ.&lt;/p&gt;
+
+&lt;h1 id=&quot;no-more-ranting-i-promise&quot;&gt;No more ranting, I promise&lt;/h1&gt;
+&lt;p&gt;Enough with the rant, now. While there is enough to sulk at, there’s loads to enjoy in this place too! Bengaluru city is awesome for those who like partying, and night-life here is pretty cool! Amazon teams go on one-day office outings to some place nearby – we were lucky enough to go to Club Cabana, and spend a day full of bowling, pool-side fun and other indulgences… :D.amazon2
 The weather here is surprisingly cool and pretty nice for walks in the park, if you have the right company. You would’ve been sweating it out in Mumbai this time of the year, when here in Bengaluru you don’t even need the fan at night. And there are a lot of pretty parks in and around the city. We’ve pretty much been following Google Maps for place recommendations and we’ve not been disappointed!
 If not for the place, Bengaluru will be awesome simply for its company of people because aadha insti bangalore me intern karta hai (Half the people in insti are interning at Bangalore) is what I’ve heard. I’ve even met up with seniors who have passed out and joined their new company here.
 In summary, I’d just like to say that apart from the work, I’ve been pretty satisfied with Amazon as a company, and this city. Maybe it’s just that Software Dev isn’t meant for me. It’s been a unique experience until now and I hope this intern surprises me a bit more!&lt;/p&gt;

@@ -15,7 +15,7 @@ featured: true
 published: true
 author_name: Kumar Ayush
 author_email: cheekujodhpur@gmail.com
-author_image: http://cheekujodhpur.github.io/images/me_emily.jpg
+author_image: https://cheekujodhpur.github.io/images/me_emily.jpg
 author_description: I like astrophysics. I like scientific computation. I like HPC. I like ML. I also like cooking and travel. You are very good person.
 ---
 

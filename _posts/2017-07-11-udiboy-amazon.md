@@ -5,26 +5,24 @@ categories: internship
 tags:
   - mercari
   - internships
-imagefeature: "http://summerblog.insightiitb.org/wp-content/uploads/2017/06/amazon1-1.jpg"
-imagecreditlink: "http://www.spreadeffect.com/blog/improve-website-speed/"
 comments: true
 mathjax: null
 featured: true
 published: true
 author_name: Meet Udeshi
-author_website: http://udiboy1209.github.io
+author_website: https://udiboy1209.github.io
 author_image: https://avatars1.githubusercontent.com/u/7384411?s=400&v=4
 author_description: Automater | Tinkerer | Nolan Fan | Movie Enthusiast
 ---
 
-*The following has been adapted from the insight-iitb. Access the original version [here](http://summerblog.insightiitb.org/amazon-meet-udeshi/).*
+*The following has been adapted from the insight-iitb. Access the original version [here](https://summerblog.insightiitb.org/amazon-meet-udeshi/).*
 
 # Intern Blog
 
 As I sit on my desk in Amazon Bangalore Office, with two widescreen monitors and a Macbook pro, I wonder what am I doing. I mean it’s 12:30 in the afternoon here, I just walked in half an hour ago, and I’m writing my intern blog. What I’m really doing is waiting for a review on a wiki I wrote describing two possible approaches to the problem given to me to solve for the duration of my internship. It’s the third time I have reminded my mentor to review it, but he doesn’t seem interested at all and is busy in back to back meetings since yesterday. Maybe that’s what it’s like to work in large MNCs, lots of planning and little implementation. Here goes my two cents on the Great Customer-centric Amazon Company summer internship.
 
 {: .center}
-![Gear](http://summerblog.insightiitb.org/wp-content/uploads/2017/06/amazon1-1.jpg "Gear"){:style="max-height: 500px;"}
+![Gear](https://summerblog.insightiitb.org/wp-content/uploads/2017/06/amazon1-1.jpg "Gear"){:style="max-height: 500px;"}
 
 # Selection process
 Amazon comes to IITB one, two months into the season when the intern fever has settled down. It was open for all departments and had no CPI cut-off, which is how an EE Dual 7-pointer got in :P. For a person like me, that was enough to make me apply for the intern. The interview was like any other Software Dev interview would be – an online selection test on DSA and multiple one-on-one rounds of DSA questions. The interviewers we had were pretty indulgent and interactive while asking questions, up to the point where it almost felt like a discussion.
@@ -39,7 +37,7 @@ Well, then came the development environment setup. They never make that one an e
 It all feels surreal when you think about the sheer scale any single piece of code will be affecting. As an example, let me tell you about my team.
 # My team
 {: .center}
-![Gear](http://summerblog.insightiitb.org/wp-content/uploads/2017/06/amazon2-1.jpg "Gear"){:style="max-height: 500px;"}
+![Gear](https://summerblog.insightiitb.org/wp-content/uploads/2017/06/amazon2-1.jpg "Gear"){:style="max-height: 500px;"}
 
 Transport Financial Systems, or TFS as its more passionately called, manages the accounting of all financial aspects of the transport expenses Amazon makes. Transport here refers to shipping of Amazon products, from anywhere to anywhere else, done by multiple different couriers. Millions of products are shipped everyday, generating hundreds of thousands of invoices from couriers. These all need to be properly audited and accounted for, and then paid. But we aren’t accountants, we are developers who automate this whole accounting process! While going through the codebase (or deep-diving as they like to call it), we were able to look at their databases and workflow queues each with millions of entries of product-wise accounting of every little cost which went into transport of every product. Surreal, right!
 

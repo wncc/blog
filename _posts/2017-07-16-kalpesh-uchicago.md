@@ -5,13 +5,12 @@ categories: internship
 tags:
   - UChicago
   - internships
-imagecreditlink: "http://www.spreadeffect.com/blog/improve-website-speed/"
 comments: true
 mathjax: null
 featured: true
 published: true
 author_name: Kalpesh Krishna
-author_website: http://martiansideofthemoon.github.io
+author_website: https://martiansideofthemoon.github.io
 author_image: https://avatars1.githubusercontent.com/u/8805240
 author_description: My name is Kalpesh Krishna, and I’m a senior undergraduate student of Electrical Engineering at IIT Bombay.
 ---
@@ -32,7 +31,7 @@ The day I arrived, I was lucky to be hosted by an IITB alumnus (Vishnu Nair), wh
 The University of Chicago is one of the best places in the world to study pure science, mathematics, arts and business. Our ex-RBI governor Raghuram Rajan is a professor at UChicago’s business school. Unlike most colleges, it does not have clear-cut engineering programs. It’s a really amazing campus, with ivy covered buildings, archaic architecture, huge gardens and the most stunning libraries I’ve ever seen. The college is extremely academics oriented, and you will rarely find the libraries even half-empty. Since the streets and surrounding neighbourhoods aren’t the safest areas, you won’t find much activity on the streets after it gets dark. Luckily, UChicago houses one of the largest private police force in the world, which patrols the campus throughout the day.
 
 {: .center}
-![Gear](http://summerblog.insightiitb.org/wp-content/uploads/2017/06/uchicago-ivy-768x432.jpg "Gear"){:style="max-height: 500px;"}
+![Gear](https://summerblog.insightiitb.org/wp-content/uploads/2017/06/uchicago-ivy-768x432.jpg "Gear"){:style="max-height: 500px;"}
 
  
 
@@ -43,7 +42,7 @@ TTIC is a graduate computer science institute in The University of Chicago. It p
 I’m working at the SLATTIC group, guided by three awesome professors. It’s a really diverse set of people and I love listening to their PhD stories and their discussions on AI and Computer Science. My project is on modern end-to-end Automatic Speech Recognition systems, the heart of today’s Siri and Cortana. I’m trying to build encoder architectures to speed up the training procedure for Connectionist Temporal Classification, one of the two state-of-the-art techniques for ASR systems. Unfortunately, ASR is a hard problem and training neural networks for speech recognition can often be challenging and tedious. Typical state-of-the-art architectures take 4-5 days to train and need expensive GPUs to make this possible. Luckily, TTIC has a really good GPU cluster and automation, which I’ve been trying to make the most of in the last couple of weeks. Along with the project, I’m trying to make some tools to increase research efficiency. A typical day of work here generally starts with reading an ASR paper, attending a talk / reading group, excellent discussions during lunch and a lot of programming (and debugging!). Towards the evening, I spend 1-2 quality hours ideating or reading in the Mansueto Library, my favourite place at UChicago.
 
 {: .center}
-![Gear](http://summerblog.insightiitb.org/wp-content/uploads/2017/06/mansueto-768x432.jpg "Gear"){:style="max-height: 500px;"}
+![Gear](https://summerblog.insightiitb.org/wp-content/uploads/2017/06/mansueto-768x432.jpg "Gear"){:style="max-height: 500px;"}
 
 # Accommodation, Transport and Food
 
@@ -56,15 +55,15 @@ Food has been a real issue since I don’t know how to cook. I don’t really en
 Chicago is popularly called “The Windy City”. It’s got really unpredictable ever-changing weather, and I’ve had my share of severe thunderstorms, Mumbai-like heat and of course the crazy winds. While often defamed for its crime rate, most neighbourhoods are pretty safe. Located on Lake Michigan, Chicago is known for its bold architecture and skyline. So far I’ve visited Millennium Park, Shedd Aquarium, Navy Pier and the brilliant Architecture River Cruise. I also visited a really expensive theatre to watch Pirates of the Caribbean (big mistake). Hopefully I will hopefully cover all the major tourist attractions here by the end of my trip including a long cycling tour along Lake Michigan!
 
 {: .center}
-![Gear](http://summerblog.insightiitb.org/wp-content/uploads/2017/06/sears_tower-768x432.jpg "Gear"){:style="max-height: 500px;"}
+![Gear](https://summerblog.insightiitb.org/wp-content/uploads/2017/06/sears_tower-768x432.jpg "Gear"){:style="max-height: 500px;"}
 
-While a lot of things are much easier in USA, I get the feeling that people don’t like being dependent on others here. The streets are generally lonely on weekends and lots of residents tell me that the social life is really lacking here. Most shops generally close by 6pm, and most of the neighbourhoods are pretty deserted after sunset, making it too unsafe to loiter on the streets at midnight – something I’m so used to doing at IITB! Nevertheless, downtown Chicago is full of activity and tourists 24*7 with concerts and shows happening all year long.
+While a lot of things are much easier in USA, I get the feeling that people don’t like being dependent on others here. The streets are generally lonely on weekends and lots of residents tell me that the social life is really lacking here. Most shops generally close by 6pm, and most of the neighbourhoods are pretty deserted after sunset, making it too unsafe to loiter on the streets at midnight – something I’m so used to doing at IITB! Nevertheless, downtown Chicago is full of activity and tourists 24x7 with concerts and shows happening all year long.
 
 
  
 
 {: .center}
-![Gear](http://summerblog.insightiitb.org/wp-content/uploads/2017/06/museum_campus-768x432.jpg "Gear"){:style="max-height: 500px;"}
+![Gear](https://summerblog.insightiitb.org/wp-content/uploads/2017/06/museum_campus-768x432.jpg "Gear"){:style="max-height: 500px;"}
 
 # Conclusion
 

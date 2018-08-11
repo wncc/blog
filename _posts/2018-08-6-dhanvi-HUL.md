@@ -5,8 +5,6 @@ categories: internship
 tags:
   - HUL
   - internships
-imagecredit: spreadeffect.com
-imagecreditlink: "http://www.spreadeffect.com/blog/improve-website-speed/"
 comments: true
 mathjax: null
 featured: true

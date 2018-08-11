@@ -4,13 +4,67 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="https://blog.wncc-iitb.org/feed.xml" />
 <link rel="alternate" type="text/html" href="https://blog.wncc-iitb.org" />
-<updated>2018-08-11T11:16:12+05:30</updated>
+<updated>2018-08-11T14:58:03+05:30</updated>
 <id>https://blog.wncc-iitb.org/</id>
 <author>
   <name>Web and Coding Club</name>
   <uri>https://blog.wncc-iitb.org/</uri>
   <email>locacocinero@gmail.com</email>
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[Dhanvi's internship at HUL '18]]></title>
+  <link>https://blog.wncc-iitb.org/internship/dhanvi-HUL.html</link>
+  <id>https://blog.wncc-iitb.org/internship/dhanvi-HUL</id>
+  <published>2018-08-06T00:00:00+05:30</published>
+  <updated>2018-08-06T00:00:00+05:30</updated>
+  <author>
+    <name>Web and Coding Club</name>
+    <uri>https://blog.wncc-iitb.org</uri>
+    <email>locacocinero@gmail.com</email>
+  </author>
+  <content type="html">&lt;h1 id=&quot;summers-at-hul&quot;&gt;SUMMERS AT HUL&lt;/h1&gt;
+
+&lt;p&gt;Before I start with the review proper, just a small disclaimer. The following is my honest opinion, and hence represents the same. If you are looking to apply, I highly suggest asking others who have also been a part of the program, for they may have completely different opinions and takeaways. I have split the review into 4 sections, each covering a broad aspect of the internship experience overall. Ready? Let’s go&lt;/p&gt;
+
+&lt;h1 id=&quot;hul-as-an-employer&quot;&gt;HUL as an Employer&lt;/h1&gt;
+
+&lt;p&gt;Hindustan Unilever, as most of you probably would know, is one of the top Fast Moving Consumer Goods (FMCGs) companies globally. It has been around for quite a lot of time, and is quite deep rooted our homes, through their many brands. A few of them just off the top of my head would be Lifebuoy, Pears, Close Up, Knorr, Kwality Walls, Lakme, Bru etc.&lt;/p&gt;
+
+&lt;p class=&quot;center&quot;&gt;&lt;img src=&quot;https://i.imgur.com/1JEfbKs.png&quot; alt=&quot;Office View&quot; title=&quot;Office View&quot; style=&quot;max-height: 500px;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;HUL is a fantastic place to work. This mainly stems from the fact that the work culture is great, where innovation is nurtured, and good work appreciated. The support you will get as an intern is unprecedented, with people from all over the world helping you achieve what will probably be a very ambitious set of objectives. When it comes to getting work done, there is little hierarchy, where you will find yourself presenting your findings and plans to the most senior executives (we’re talking people who handle the whole of South Asia), and they will always make time for you and contribute to your progress. Overall, it is a company that respects it’s employees, and the work life reflects that&lt;/p&gt;
+
+&lt;p class=&quot;center&quot;&gt;&lt;img src=&quot;https://i.imgur.com/64Xr0Cm.png&quot; alt=&quot;Team Pic&quot; title=&quot;Team Pic&quot; style=&quot;max-height: 500px;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;All work and no play makes Jack a dull boy, and the HUL office reflects that: Swimming pool, gym, and even a jam room with a lot of instruments (being musically inclined, this was a gold mine :P). There are no assigned desks, so you can work anywhere in the campus, or even from home, with a lax-ish WFH policy. There were also multiple parties, which were super fun.&lt;/p&gt;
+
+&lt;h1 id=&quot;selection-procedure&quot;&gt;Selection Procedure&lt;/h1&gt;
+
+&lt;p&gt;Now that I’ve done a good job selling the company to you, let’s see how one can get in. So HUL is among a handful of companies that comes on Day 1 of internships, and is highly sought after. It offers a boat load of cash, and a great experience. They open mainly for two profiles: RnD and Supply Chain. In simple terms, RnD looks after product specification development, how it should technically perform, and the process for making it. Supply Chain is implementing this on a super large scale, taking into consideration time and resource constraints. Both profiles have their fair share of challenges, and are very different but equally interesting profiles. On a personal note, if you are a Mechanical engineer, RnD is a Pandora’s Box, because most RnD is on chemical formulations and process, so be warned, and keep that in mind.&lt;/p&gt;
+
+&lt;p&gt;The next step is a Group Discussion, which is to see how you perform in a group. This is especially tricky, considering it’s a form of evaluation new to most people. If you do well in the GD, you get shortlisted for Personal Interviews. There are two of these, both of which are highly technical and will test core knowledge, along with ambition and your world view. I suggest a good amount of prep if you want to stand a decent chance, due to the competition&lt;/p&gt;
+
+&lt;h1 id=&quot;internship-experience&quot;&gt;Internship Experience&lt;/h1&gt;
+
+&lt;p&gt;As a mechanical engineer in the RnD division at HUL, I was already a bit apprehensive about what sort of work I’d get. You must be wondering why this article is in the WnCC Intern Blog, considering it is a core chemical-mechanical company working on making soaps. The answer is simple: DATA IS THE NEW OIL. This is an expression that I have heard extensively, and for good reason. Every company, small or big, old or new, is looking to digitise operations and become sleeker for the digital age. I was part of managing this transition (in a small way) at my internship&lt;/p&gt;
+
+&lt;p&gt;My project, to be put succinctly, was to digitise the research operations for soap bars. This involved designing a Data Acquisition system, putting the hardware in place to collect this data reliably, and then a Data Modelling system which would build the required model, to predict the properties of the soap bar at each stage of the process just from the formulation details and the process/utility parameters. For this, I had to build and train a neural net which would do this. Since my model depended on my data, which in turn depends on my system, the work was circular and iterative, involving me to make changes to one based on the requirements / constraints of the other. In the end, I came up with a proof of principle for the entire end-to-end system, and that was that.&lt;/p&gt;
+
+&lt;p class=&quot;center&quot;&gt;&lt;img src=&quot;https://i.imgur.com/RqpmXOW.png&quot; alt=&quot;Me&quot; title=&quot;Me&quot; style=&quot;max-height: 500px;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;During the normal course of work, I would interact with process analytics experts in the UK, along with Data Systems Firms with my proposals. This gives you a lot of exposure, and a reality check. You think you’ve understood a problem, but when an expert starts probing you, you will realise the depths of the issue. Since this is not in it’s core workstream, you will not really have to code any of these solutions on your own. You just need to make a small scale version (which I used an online service for), and figure out some third party to scale. So if you’re looking for cutting edge coding work, you’ve barked up the wrong tree. But this internship will give you a flavour of project management, and taking ownership for one’s work and driving it to completion&lt;/p&gt;
+
+&lt;h1 id=&quot;tldr--conclusion-you-know-who-you-are&quot;&gt;TL;DR / Conclusion (You know who you are)&lt;/h1&gt;
+
+&lt;p&gt;To summarize, HUL is a great employer, respects it’s interns with a structured program with well quantified deliverables, and a significant quantum of work. The work itself can be quite fun, and really depends on you. Usually, you get adequate support from your team to try out new things, and really take ownership of your project. There are times when you’ll have to manage people and their resources, but these are all great learning experiences. I would not apply here looking for work if you are interested in CS, but take this as an example that Data Science and CS in general is everywhere (the last place would be a soap company really). It is up to you to find those opportunities.&lt;/p&gt;
+
+&lt;h1 id=&quot;thank-you-for-spending-the-time-to-read-this-and-i-wish-you-the-very-best-of-luck-d&quot;&gt;Thank you for spending the time to read this, and I wish you the very best of luck :D&lt;/h1&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;https://blog.wncc-iitb.org/internship/dhanvi-HUL.html&quot;&gt;Dhanvi's internship at HUL '18&lt;/a&gt; was originally published by Web and Coding Club at &lt;a href=&quot;https://blog.wncc-iitb.org&quot;&gt;&lt;/a&gt; on August 06, 2018.&lt;/p&gt;</content>
+</entry>
 
 
 <entry>
@@ -84,108 +138,6 @@
 
 
 <entry>
-  <title type="html"><![CDATA[Dhanvi's internship at HUL '18]]></title>
-  <link>https://blog.wncc-iitb.org/internship/dhanvi-HUL.html</link>
-  <id>https://blog.wncc-iitb.org/internship/dhanvi-HUL</id>
-  <published>2018-07-16T00:00:00+05:30</published>
-  <updated>2018-07-16T00:00:00+05:30</updated>
-  <author>
-    <name>Web and Coding Club</name>
-    <uri>https://blog.wncc-iitb.org</uri>
-    <email>locacocinero@gmail.com</email>
-  </author>
-  <content type="html">&lt;h1 id=&quot;summers-at-hul&quot;&gt;SUMMERS AT HUL&lt;/h1&gt;
-
-&lt;p&gt;Before I start with the review proper, just a small disclaimer. The following is my honest opinion, and hence represents the same. If you are looking to apply, I highly suggest asking others who have also been a part of the program, for they may have completely different opinions and takeaways. I have split the review into 4 sections, each covering a broad aspect of the internship experience overall. Ready? Let’s go&lt;/p&gt;
-
-&lt;h1 id=&quot;hul-as-an-employer&quot;&gt;HUL as an Employer&lt;/h1&gt;
-
-&lt;p&gt;Hindustan Unilever, as most of you probably would know, is one of the top Fast Moving Consumer Goods (FMCGs) companies globally. It has been around for quite a lot of time, and is quite deep rooted our homes, through their many brands. A few of them just off the top of my head would be Lifebuoy, Pears, Close Up, Knorr, Kwality Walls, Lakme, Bru etc.&lt;/p&gt;
-
-&lt;p class=&quot;center&quot;&gt;&lt;img src=&quot;https://i.imgur.com/1JEfbKs.png&quot; alt=&quot;Office View&quot; title=&quot;Office View&quot; style=&quot;max-height: 500px;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;HUL is a fantastic place to work. This mainly stems from the fact that the work culture is great, where innovation is nurtured, and good work appreciated. The support you will get as an intern is unprecedented, with people from all over the world helping you achieve what will probably be a very ambitious set of objectives. When it comes to getting work done, there is little hierarchy, where you will find yourself presenting your findings and plans to the most senior executives (we’re talking people who handle the whole of South Asia), and they will always make time for you and contribute to your progress. Overall, it is a company that respects it’s employees, and the work life reflects that&lt;/p&gt;
-
-&lt;p class=&quot;center&quot;&gt;&lt;img src=&quot;https://i.imgur.com/64Xr0Cm.png&quot; alt=&quot;Team Pic&quot; title=&quot;Team Pic&quot; style=&quot;max-height: 500px;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;All work and no play makes Jack a dull boy, and the HUL office reflects that: Swimming pool, gym, and even a jam room with a lot of instruments (being musically inclined, this was a gold mine :P). There are no assigned desks, so you can work anywhere in the campus, or even from home, with a lax-ish WFH policy. There were also multiple parties, which were super fun.&lt;/p&gt;
-
-&lt;h1 id=&quot;selection-procedure&quot;&gt;Selection Procedure&lt;/h1&gt;
-
-&lt;p&gt;Now that I’ve done a good job selling the company to you, let’s see how one can get in. So HUL is among a handful of companies that comes on Day 1 of internships, and is highly sought after. It offers a boat load of cash, and a great experience. They open mainly for two profiles: RnD and Supply Chain. In simple terms, RnD looks after product specification development, how it should technically perform, and the process for making it. Supply Chain is implementing this on a super large scale, taking into consideration time and resource constraints. Both profiles have their fair share of challenges, and are very different but equally interesting profiles. On a personal note, if you are a Mechanical engineer, RnD is a Pandora’s Box, because most RnD is on chemical formulations and process, so be warned, and keep that in mind.&lt;/p&gt;
-
-&lt;p&gt;The next step is a Group Discussion, which is to see how you perform in a group. This is especially tricky, considering it’s a form of evaluation new to most people. If you do well in the GD, you get shortlisted for Personal Interviews. There are two of these, both of which are highly technical and will test core knowledge, along with ambition and your world view. I suggest a good amount of prep if you want to stand a decent chance, due to the competition&lt;/p&gt;
-
-&lt;h1 id=&quot;internship-experience&quot;&gt;Internship Experience&lt;/h1&gt;
-
-&lt;p&gt;As a mechanical engineer in the RnD division at HUL, I was already a bit apprehensive about what sort of work I’d get. You must be wondering why this article is in the WnCC Intern Blog, considering it is a core chemical-mechanical company working on making soaps. The answer is simple: DATA IS THE NEW OIL. This is an expression that I have heard extensively, and for good reason. Every company, small or big, old or new, is looking to digitise operations and become sleeker for the digital age. I was part of managing this transition (in a small way) at my internship&lt;/p&gt;
-
-&lt;p&gt;My project, to be put succinctly, was to digitise the research operations for soap bars. This involved designing a Data Acquisition system, putting the hardware in place to collect this data reliably, and then a Data Modelling system which would build the required model, to predict the properties of the soap bar at each stage of the process just from the formulation details and the process/utility parameters. For this, I had to build and train a neural net which would do this. Since my model depended on my data, which in turn depends on my system, the work was circular and iterative, involving me to make changes to one based on the requirements / constraints of the other. In the end, I came up with a proof of principle for the entire end-to-end system, and that was that.&lt;/p&gt;
-
-&lt;p class=&quot;center&quot;&gt;&lt;img src=&quot;https://i.imgur.com/RqpmXOW.png&quot; alt=&quot;Me&quot; title=&quot;Me&quot; style=&quot;max-height: 500px;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;During the normal course of work, I would interact with process analytics experts in the UK, along with Data Systems Firms with my proposals. This gives you a lot of exposure, and a reality check. You think you’ve understood a problem, but when an expert starts probing you, you will realise the depths of the issue. Since this is not in it’s core workstream, you will not really have to code any of these solutions on your own. You just need to make a small scale version (which I used an online service for), and figure out some third party to scale. So if you’re looking for cutting edge coding work, you’ve barked up the wrong tree. But this internship will give you a flavour of project management, and taking ownership for one’s work and driving it to completion&lt;/p&gt;
-
-&lt;h1 id=&quot;tldr--conclusion-you-know-who-you-are&quot;&gt;TL;DR / Conclusion (You know who you are)&lt;/h1&gt;
-
-&lt;p&gt;To summarize, HUL is a great employer, respects it’s interns with a structured program with well quantified deliverables, and a significant quantum of work. The work itself can be quite fun, and really depends on you. Usually, you get adequate support from your team to try out new things, and really take ownership of your project. There are times when you’ll have to manage people and their resources, but these are all great learning experiences. I would not apply here looking for work if you are interested in CS, but take this as an example that Data Science and CS in general is everywhere (the last place would be a soap company really). It is up to you to find those opportunities.&lt;/p&gt;
-
-&lt;h1 id=&quot;thank-you-for-spending-the-time-to-read-this-and-i-wish-you-the-very-best-of-luck-d&quot;&gt;Thank you for spending the time to read this, and I wish you the very best of luck :D&lt;/h1&gt;
-
-
-  &lt;p&gt;&lt;a href=&quot;https://blog.wncc-iitb.org/internship/dhanvi-HUL.html&quot;&gt;Dhanvi's internship at HUL '18&lt;/a&gt; was originally published by Web and Coding Club at &lt;a href=&quot;https://blog.wncc-iitb.org&quot;&gt;&lt;/a&gt; on July 16, 2018.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Meet's internship at Amazon '17]]></title>
-  <link>https://blog.wncc-iitb.org/internship/udiboy-amazon.html</link>
-  <id>https://blog.wncc-iitb.org/internship/udiboy-amazon</id>
-  <published>2017-07-16T00:00:00+05:30</published>
-  <updated>2017-07-16T00:00:00+05:30</updated>
-  <author>
-    <name>Web and Coding Club</name>
-    <uri>https://blog.wncc-iitb.org</uri>
-    <email>locacocinero@gmail.com</email>
-  </author>
-  <content type="html">&lt;p&gt;&lt;em&gt;The following has been adapted from the insight-iitb. Access the original version &lt;a href=&quot;http://summerblog.insightiitb.org/amazon-meet-udeshi/&quot;&gt;here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
-
-&lt;h1 id=&quot;intern-blog&quot;&gt;Intern Blog&lt;/h1&gt;
-
-&lt;p&gt;As I sit on my desk in Amazon Bangalore Office, with two widescreen monitors and a Macbook pro, I wonder what am I doing. I mean it’s 12:30 in the afternoon here, I just walked in half an hour ago, and I’m writing my intern blog. What I’m really doing is waiting for a review on a wiki I wrote describing two possible approaches to the problem given to me to solve for the duration of my internship. It’s the third time I have reminded my mentor to review it, but he doesn’t seem interested at all and is busy in back to back meetings since yesterday. Maybe that’s what it’s like to work in large MNCs, lots of planning and little implementation. Here goes my two cents on the Great Customer-centric Amazon Company summer internship.&lt;/p&gt;
-
-&lt;p class=&quot;center&quot;&gt;&lt;img src=&quot;http://summerblog.insightiitb.org/wp-content/uploads/2017/06/amazon1-1.jpg&quot; alt=&quot;Gear&quot; title=&quot;Gear&quot; style=&quot;max-height: 500px;&quot; /&gt;&lt;/p&gt;
-
-&lt;h1 id=&quot;selection-process&quot;&gt;Selection process&lt;/h1&gt;
-&lt;p&gt;Amazon comes to IITB one, two months into the season when the intern fever has settled down. It was open for all departments and had no CPI cut-off, which is how an EE Dual 7-pointer got in :P. For a person like me, that was enough to make me apply for the intern. The interview was like any other Software Dev interview would be – an online selection test on DSA and multiple one-on-one rounds of DSA questions. The interviewers we had were pretty indulgent and interactive while asking questions, up to the point where it almost felt like a discussion.
-In my case, I had no idea going into the one-on-one round that a Depth-first Search uses stacks and also how it is implemented with stacks (I can hear you laughing at me). The interviewer wasn’t bothered much by the fact and he helped me derive the whole implementation by asking me the correct questions. The next round was a similar set of questions, and went well for me and I eventually got selected! Yay!&lt;/p&gt;
-&lt;h1 id=&quot;pre-internship-time&quot;&gt;Pre-Internship Time&lt;/h1&gt;
-&lt;p&gt;Cutting to pre-summer time, conveniently skipping the infi requests of unlimited Prime memberships and free gift vouchers from friends and family, it’s a very big wait till Amazon HR people will first contact you. At least that’s what happened with all the people going to Bangalore. I wouldn’t blame them though, because Amazon is probably overworking their HR team with the hiring spree this year. In the end, they did get everything done though – Flight tickets, Hotel accommodation for 15 days, Airport pickup.
-The internship starts a bit late into the summer holidays, so you get about 2 weeks of free time after your endsems. All you are expected to do in this time is be in email contact with the HR team. We waited too long to contact the HR team and found out about these 2 weeks of free time pretty late.&lt;/p&gt;
-
-&lt;h1 id=&quot;its-still-day-1&quot;&gt;It’s still Day 1&lt;/h1&gt;
-&lt;p&gt;They throw around this phrase here like dirt. All it means is every employee is expected to work everyday like it’s their Day 1, and they have a long way to go still. My day 1 was pretty bummed out, actually :/ . I hadn’t expected anything better though, with multiple boring HR sessions, getting your ID card photo clicked, and what not. It wasn’t all bad because we did each get a Macbook as our work laptop.
-Well, then came the development environment setup. They never make that one an easy job. It took two long days to install all the tools, acquire permissions in multiple groups (Unix groups), set up a cloud desktop, and get it all working together. It actually seems pretty impressive, because when you think about it they have set up a pretty robust system which any company of this scale would require. In the first week we found out about how development actually gets done in Amazon. We found out about what pipelines they use for stage-by-stage deployment, how they test at every stage, and how mishaps are handled. Yea, its not as simple as just pushing code to the server. There’s Alpha and Beta stages in between which every code change has to pass through. And they have automated tests hooked up to every stage, which if they fail will stop the deployment automatically!
-It all feels surreal when you think about the sheer scale any single piece of code will be affecting. As an example, let me tell you about my team.&lt;/p&gt;
-&lt;h1 class=&quot;center&quot; id=&quot;my-team&quot;&gt;My team&lt;/h1&gt;
-&lt;p&gt;&lt;img src=&quot;http://summerblog.insightiitb.org/wp-content/uploads/2017/06/amazon2-1.jpg&quot; alt=&quot;Gear&quot; title=&quot;Gear&quot; style=&quot;max-height: 500px;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Transport Financial Systems, or TFS as its more passionately called, manages the accounting of all financial aspects of the transport expenses Amazon makes. Transport here refers to shipping of Amazon products, from anywhere to anywhere else, done by multiple different couriers. Millions of products are shipped everyday, generating hundreds of thousands of invoices from couriers. These all need to be properly audited and accounted for, and then paid. But we aren’t accountants, we are developers who automate this whole accounting process! While going through the codebase (or deep-diving as they like to call it), we were able to look at their databases and workflow queues each with millions of entries of product-wise accounting of every little cost which went into transport of every product. Surreal, right!&lt;/p&gt;
-
-&lt;h1 id=&quot;my-project&quot;&gt;My project&lt;/h1&gt;
-&lt;p&gt;What my team does is a pretty long and boring story, and the task I’ve been assigned is a little automation to be done on their existing system to make things easier for the existing developers. It has to deal with the accounting of USPS based shipments.
-The work essentially involves working with SQS queues to filter and keep some messages on standby for certain duration, then redrive them back to the main flow. Everything here extensively uses AWS, obviously. And if nothing, I’ll surely learn how to use AWS services very efficiently. Because that is exactly what I’ve been planning for the past week XD . How should we store the messages? what data model would be most efficient? what are the pros and cons of the two approaches? I’ve been wanting to tell them, let’s just implement it and see, but that may invite unnecessary negative criticism. Well, honestly that’s what has bored me up till now, probably because we all are so used to the Implement-it-then-analyse-it strategy that we so passionately follow in college. Maybe that’s why the people here also tell me to not trust StackOverflow, and to always deep-dive into the documentation. But they’re the same people who tell me vim kills my productivity and you lose all your trust in them at that point 😛 . I mean, I’m writing this frickin blog in vim, and they tell me to code in IntelliJ.
-No more ranting, I promise
-Enough with the rant, now. While there is enough to sulk at, there’s loads to enjoy in this place too! Bengaluru city is awesome for those who like partying, and night-life here is pretty cool! Amazon teams go on one-day office outings to some place nearby – we were lucky enough to go to Club Cabana, and spend a day full of bowling, pool-side fun and other indulgences… :D.amazon2
-The weather here is surprisingly cool and pretty nice for walks in the park, if you have the right company. You would’ve been sweating it out in Mumbai this time of the year, when here in Bengaluru you don’t even need the fan at night. And there are a lot of pretty parks in and around the city. We’ve pretty much been following Google Maps for place recommendations and we’ve not been disappointed!
-If not for the place, Bengaluru will be awesome simply for its company of people because aadha insti bangalore me intern karta hai (Half the people in insti are interning at Bangalore) is what I’ve heard. I’ve even met up with seniors who have passed out and joined their new company here.
-In summary, I’d just like to say that apart from the work, I’ve been pretty satisfied with Amazon as a company, and this city. Maybe it’s just that Software Dev isn’t meant for me. It’s been a unique experience until now and I hope this intern surprises me a bit more!&lt;/p&gt;
-
-  &lt;p&gt;&lt;a href=&quot;https://blog.wncc-iitb.org/internship/udiboy-amazon.html&quot;&gt;Meet's internship at Amazon '17&lt;/a&gt; was originally published by Web and Coding Club at &lt;a href=&quot;https://blog.wncc-iitb.org&quot;&gt;&lt;/a&gt; on July 16, 2017.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
   <title type="html"><![CDATA[Kalpesh's internship at UChicago '17]]></title>
   <link>https://blog.wncc-iitb.org/internship/kalpesh-uchicago.html</link>
   <id>https://blog.wncc-iitb.org/internship/kalpesh-uchicago</id>
@@ -210,7 +162,7 @@ In summary, I’d just like to say that apart from the work, I’ve been pretty 
 
 &lt;p&gt;The University of Chicago is one of the best places in the world to study pure science, mathematics, arts and business. Our ex-RBI governor Raghuram Rajan is a professor at UChicago’s business school. Unlike most colleges, it does not have clear-cut engineering programs. It’s a really amazing campus, with ivy covered buildings, archaic architecture, huge gardens and the most stunning libraries I’ve ever seen. The college is extremely academics oriented, and you will rarely find the libraries even half-empty. Since the streets and surrounding neighbourhoods aren’t the safest areas, you won’t find much activity on the streets after it gets dark. Luckily, UChicago houses one of the largest private police force in the world, which patrols the campus throughout the day.&lt;/p&gt;
 
-&lt;p class=&quot;center&quot;&gt;&lt;img src=&quot;http://summerblog.insightiitb.org/wp-content/uploads/2017/06/uchicago-ivy-768x432.jpg&quot; alt=&quot;Gear&quot; title=&quot;Gear&quot; style=&quot;max-height: 500px;&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;center&quot;&gt;&lt;img src=&quot;https://summerblog.insightiitb.org/wp-content/uploads/2017/06/uchicago-ivy-768x432.jpg&quot; alt=&quot;Gear&quot; title=&quot;Gear&quot; style=&quot;max-height: 500px;&quot; /&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;ttic--work&quot;&gt;TTIC &amp;amp; Work&lt;/h1&gt;
 
@@ -218,7 +170,7 @@ In summary, I’d just like to say that apart from the work, I’ve been pretty 
 
 &lt;p&gt;I’m working at the SLATTIC group, guided by three awesome professors. It’s a really diverse set of people and I love listening to their PhD stories and their discussions on AI and Computer Science. My project is on modern end-to-end Automatic Speech Recognition systems, the heart of today’s Siri and Cortana. I’m trying to build encoder architectures to speed up the training procedure for Connectionist Temporal Classification, one of the two state-of-the-art techniques for ASR systems. Unfortunately, ASR is a hard problem and training neural networks for speech recognition can often be challenging and tedious. Typical state-of-the-art architectures take 4-5 days to train and need expensive GPUs to make this possible. Luckily, TTIC has a really good GPU cluster and automation, which I’ve been trying to make the most of in the last couple of weeks. Along with the project, I’m trying to make some tools to increase research efficiency. A typical day of work here generally starts with reading an ASR paper, attending a talk / reading group, excellent discussions during lunch and a lot of programming (and debugging!). Towards the evening, I spend 1-2 quality hours ideating or reading in the Mansueto Library, my favourite place at UChicago.&lt;/p&gt;
 
-&lt;p class=&quot;center&quot;&gt;&lt;img src=&quot;http://summerblog.insightiitb.org/wp-content/uploads/2017/06/mansueto-768x432.jpg&quot; alt=&quot;Gear&quot; title=&quot;Gear&quot; style=&quot;max-height: 500px;&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;center&quot;&gt;&lt;img src=&quot;https://summerblog.insightiitb.org/wp-content/uploads/2017/06/mansueto-768x432.jpg&quot; alt=&quot;Gear&quot; title=&quot;Gear&quot; style=&quot;max-height: 500px;&quot; /&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;accommodation-transport-and-food&quot;&gt;Accommodation, Transport and Food&lt;/h1&gt;
 
@@ -230,11 +182,11 @@ In summary, I’d just like to say that apart from the work, I’ve been pretty 
 
 &lt;p&gt;Chicago is popularly called “The Windy City”. It’s got really unpredictable ever-changing weather, and I’ve had my share of severe thunderstorms, Mumbai-like heat and of course the crazy winds. While often defamed for its crime rate, most neighbourhoods are pretty safe. Located on Lake Michigan, Chicago is known for its bold architecture and skyline. So far I’ve visited Millennium Park, Shedd Aquarium, Navy Pier and the brilliant Architecture River Cruise. I also visited a really expensive theatre to watch Pirates of the Caribbean (big mistake). Hopefully I will hopefully cover all the major tourist attractions here by the end of my trip including a long cycling tour along Lake Michigan!&lt;/p&gt;
 
-&lt;p class=&quot;center&quot;&gt;&lt;img src=&quot;http://summerblog.insightiitb.org/wp-content/uploads/2017/06/sears_tower-768x432.jpg&quot; alt=&quot;Gear&quot; title=&quot;Gear&quot; style=&quot;max-height: 500px;&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;center&quot;&gt;&lt;img src=&quot;https://summerblog.insightiitb.org/wp-content/uploads/2017/06/sears_tower-768x432.jpg&quot; alt=&quot;Gear&quot; title=&quot;Gear&quot; style=&quot;max-height: 500px;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;While a lot of things are much easier in USA, I get the feeling that people don’t like being dependent on others here. The streets are generally lonely on weekends and lots of residents tell me that the social life is really lacking here. Most shops generally close by 6pm, and most of the neighbourhoods are pretty deserted after sunset, making it too unsafe to loiter on the streets at midnight – something I’m so used to doing at IITB! Nevertheless, downtown Chicago is full of activity and tourists 24*7 with concerts and shows happening all year long.&lt;/p&gt;
+&lt;p&gt;While a lot of things are much easier in USA, I get the feeling that people don’t like being dependent on others here. The streets are generally lonely on weekends and lots of residents tell me that the social life is really lacking here. Most shops generally close by 6pm, and most of the neighbourhoods are pretty deserted after sunset, making it too unsafe to loiter on the streets at midnight – something I’m so used to doing at IITB! Nevertheless, downtown Chicago is full of activity and tourists 24x7 with concerts and shows happening all year long.&lt;/p&gt;
 
-&lt;p class=&quot;center&quot;&gt;&lt;img src=&quot;http://summerblog.insightiitb.org/wp-content/uploads/2017/06/museum_campus-768x432.jpg&quot; alt=&quot;Gear&quot; title=&quot;Gear&quot; style=&quot;max-height: 500px;&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;center&quot;&gt;&lt;img src=&quot;https://summerblog.insightiitb.org/wp-content/uploads/2017/06/museum_campus-768x432.jpg&quot; alt=&quot;Gear&quot; title=&quot;Gear&quot; style=&quot;max-height: 500px;&quot; /&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h1&gt;
 
@@ -301,11 +253,59 @@ Every Tuesday, me and Anuj went to a local Board Games meetup. We went to some o
 
 
 <entry>
+  <title type="html"><![CDATA[Meet's internship at Amazon '17]]></title>
+  <link>https://blog.wncc-iitb.org/internship/udiboy-amazon.html</link>
+  <id>https://blog.wncc-iitb.org/internship/udiboy-amazon</id>
+  <published>2017-07-11T00:00:00+05:30</published>
+  <updated>2017-07-11T00:00:00+05:30</updated>
+  <author>
+    <name>Web and Coding Club</name>
+    <uri>https://blog.wncc-iitb.org</uri>
+    <email>locacocinero@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;&lt;em&gt;The following has been adapted from the insight-iitb. Access the original version &lt;a href=&quot;https://summerblog.insightiitb.org/amazon-meet-udeshi/&quot;&gt;here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;intern-blog&quot;&gt;Intern Blog&lt;/h1&gt;
+
+&lt;p&gt;As I sit on my desk in Amazon Bangalore Office, with two widescreen monitors and a Macbook pro, I wonder what am I doing. I mean it’s 12:30 in the afternoon here, I just walked in half an hour ago, and I’m writing my intern blog. What I’m really doing is waiting for a review on a wiki I wrote describing two possible approaches to the problem given to me to solve for the duration of my internship. It’s the third time I have reminded my mentor to review it, but he doesn’t seem interested at all and is busy in back to back meetings since yesterday. Maybe that’s what it’s like to work in large MNCs, lots of planning and little implementation. Here goes my two cents on the Great Customer-centric Amazon Company summer internship.&lt;/p&gt;
+
+&lt;p class=&quot;center&quot;&gt;&lt;img src=&quot;https://summerblog.insightiitb.org/wp-content/uploads/2017/06/amazon1-1.jpg&quot; alt=&quot;Gear&quot; title=&quot;Gear&quot; style=&quot;max-height: 500px;&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;selection-process&quot;&gt;Selection process&lt;/h1&gt;
+&lt;p&gt;Amazon comes to IITB one, two months into the season when the intern fever has settled down. It was open for all departments and had no CPI cut-off, which is how an EE Dual 7-pointer got in :P. For a person like me, that was enough to make me apply for the intern. The interview was like any other Software Dev interview would be – an online selection test on DSA and multiple one-on-one rounds of DSA questions. The interviewers we had were pretty indulgent and interactive while asking questions, up to the point where it almost felt like a discussion.
+In my case, I had no idea going into the one-on-one round that a Depth-first Search uses stacks and also how it is implemented with stacks (I can hear you laughing at me). The interviewer wasn’t bothered much by the fact and he helped me derive the whole implementation by asking me the correct questions. The next round was a similar set of questions, and went well for me and I eventually got selected! Yay!&lt;/p&gt;
+&lt;h1 id=&quot;pre-internship-time&quot;&gt;Pre-Internship Time&lt;/h1&gt;
+&lt;p&gt;Cutting to pre-summer time, conveniently skipping the infi requests of unlimited Prime memberships and free gift vouchers from friends and family, it’s a very big wait till Amazon HR people will first contact you. At least that’s what happened with all the people going to Bangalore. I wouldn’t blame them though, because Amazon is probably overworking their HR team with the hiring spree this year. In the end, they did get everything done though – Flight tickets, Hotel accommodation for 15 days, Airport pickup.
+The internship starts a bit late into the summer holidays, so you get about 2 weeks of free time after your endsems. All you are expected to do in this time is be in email contact with the HR team. We waited too long to contact the HR team and found out about these 2 weeks of free time pretty late.&lt;/p&gt;
+
+&lt;h1 id=&quot;its-still-day-1&quot;&gt;It’s still Day 1&lt;/h1&gt;
+&lt;p&gt;They throw around this phrase here like dirt. All it means is every employee is expected to work everyday like it’s their Day 1, and they have a long way to go still. My day 1 was pretty bummed out, actually :/ . I hadn’t expected anything better though, with multiple boring HR sessions, getting your ID card photo clicked, and what not. It wasn’t all bad because we did each get a Macbook as our work laptop.
+Well, then came the development environment setup. They never make that one an easy job. It took two long days to install all the tools, acquire permissions in multiple groups (Unix groups), set up a cloud desktop, and get it all working together. It actually seems pretty impressive, because when you think about it they have set up a pretty robust system which any company of this scale would require. In the first week we found out about how development actually gets done in Amazon. We found out about what pipelines they use for stage-by-stage deployment, how they test at every stage, and how mishaps are handled. Yea, its not as simple as just pushing code to the server. There’s Alpha and Beta stages in between which every code change has to pass through. And they have automated tests hooked up to every stage, which if they fail will stop the deployment automatically!
+It all feels surreal when you think about the sheer scale any single piece of code will be affecting. As an example, let me tell you about my team.&lt;/p&gt;
+&lt;h1 class=&quot;center&quot; id=&quot;my-team&quot;&gt;My team&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;https://summerblog.insightiitb.org/wp-content/uploads/2017/06/amazon2-1.jpg&quot; alt=&quot;Gear&quot; title=&quot;Gear&quot; style=&quot;max-height: 500px;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Transport Financial Systems, or TFS as its more passionately called, manages the accounting of all financial aspects of the transport expenses Amazon makes. Transport here refers to shipping of Amazon products, from anywhere to anywhere else, done by multiple different couriers. Millions of products are shipped everyday, generating hundreds of thousands of invoices from couriers. These all need to be properly audited and accounted for, and then paid. But we aren’t accountants, we are developers who automate this whole accounting process! While going through the codebase (or deep-diving as they like to call it), we were able to look at their databases and workflow queues each with millions of entries of product-wise accounting of every little cost which went into transport of every product. Surreal, right!&lt;/p&gt;
+
+&lt;h1 id=&quot;my-project&quot;&gt;My project&lt;/h1&gt;
+&lt;p&gt;What my team does is a pretty long and boring story, and the task I’ve been assigned is a little automation to be done on their existing system to make things easier for the existing developers. It has to deal with the accounting of USPS based shipments.
+The work essentially involves working with SQS queues to filter and keep some messages on standby for certain duration, then redrive them back to the main flow. Everything here extensively uses AWS, obviously. And if nothing, I’ll surely learn how to use AWS services very efficiently. Because that is exactly what I’ve been planning for the past week XD . How should we store the messages? what data model would be most efficient? what are the pros and cons of the two approaches? I’ve been wanting to tell them, let’s just implement it and see, but that may invite unnecessary negative criticism. Well, honestly that’s what has bored me up till now, probably because we all are so used to the Implement-it-then-analyse-it strategy that we so passionately follow in college. Maybe that’s why the people here also tell me to not trust StackOverflow, and to always deep-dive into the documentation. But they’re the same people who tell me vim kills my productivity and you lose all your trust in them at that point 😛 . I mean, I’m writing this frickin blog in vim, and they tell me to code in IntelliJ.
+No more ranting, I promise
+Enough with the rant, now. While there is enough to sulk at, there’s loads to enjoy in this place too! Bengaluru city is awesome for those who like partying, and night-life here is pretty cool! Amazon teams go on one-day office outings to some place nearby – we were lucky enough to go to Club Cabana, and spend a day full of bowling, pool-side fun and other indulgences… :D.amazon2
+The weather here is surprisingly cool and pretty nice for walks in the park, if you have the right company. You would’ve been sweating it out in Mumbai this time of the year, when here in Bengaluru you don’t even need the fan at night. And there are a lot of pretty parks in and around the city. We’ve pretty much been following Google Maps for place recommendations and we’ve not been disappointed!
+If not for the place, Bengaluru will be awesome simply for its company of people because aadha insti bangalore me intern karta hai (Half the people in insti are interning at Bangalore) is what I’ve heard. I’ve even met up with seniors who have passed out and joined their new company here.
+In summary, I’d just like to say that apart from the work, I’ve been pretty satisfied with Amazon as a company, and this city. Maybe it’s just that Software Dev isn’t meant for me. It’s been a unique experience until now and I hope this intern surprises me a bit more!&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;https://blog.wncc-iitb.org/internship/udiboy-amazon.html&quot;&gt;Meet's internship at Amazon '17&lt;/a&gt; was originally published by Web and Coding Club at &lt;a href=&quot;https://blog.wncc-iitb.org&quot;&gt;&lt;/a&gt; on July 11, 2017.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
   <title type="html"><![CDATA[Abhijit Tomar's Internship at Microsoft IDC '16]]></title>
   <link>https://blog.wncc-iitb.org/internship/tomar-idc.html</link>
   <id>https://blog.wncc-iitb.org/internship/tomar-idc</id>
-  <published>2016-07-16T00:00:00+05:30</published>
-  <updated>2016-07-16T00:00:00+05:30</updated>
+  <published>2016-07-12T00:00:00+05:30</published>
+  <updated>2016-07-12T00:00:00+05:30</updated>
   <author>
     <name>Web and Coding Club</name>
     <uri>https://blog.wncc-iitb.org</uri>
@@ -343,7 +343,7 @@ Every Tuesday, me and Anuj went to a local Board Games meetup. We went to some o
 
 &lt;p&gt;Overall, the internship has provided me a great insight into the software development industry. Knowing how the biggest and best companies pull off their work has been a valuable experience. Given the scale Microsoft provides, you know you’re working for something that is going to impact an enormous number of people (albeit, in an indirect, subconscious manner). Knowledge of this fact gives a very unique feeling of satisfaction that is difficult to describe. To sum it up – Microsoft consists of a bunch of really cool and smart people who live a way of life worth an experience&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;https://blog.wncc-iitb.org/internship/tomar-idc.html&quot;&gt;Abhijit Tomar's Internship at Microsoft IDC '16&lt;/a&gt; was originally published by Web and Coding Club at &lt;a href=&quot;https://blog.wncc-iitb.org&quot;&gt;&lt;/a&gt; on July 16, 2016.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;https://blog.wncc-iitb.org/internship/tomar-idc.html&quot;&gt;Abhijit Tomar's Internship at Microsoft IDC '16&lt;/a&gt; was originally published by Web and Coding Club at &lt;a href=&quot;https://blog.wncc-iitb.org&quot;&gt;&lt;/a&gt; on July 12, 2016.&lt;/p&gt;</content>
 </entry>
 
 </feed>

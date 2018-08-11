@@ -1,27 +1,19 @@
 [
 	
 		{
+		  "title"      : "Dhanvi&#39;s internship at HUL &#39;18",
+		  "category"   : "",
+		  "url"        : "https://blog.wncc-iitb.org/internship/dhanvi-HUL.html",
+		  "date"       : "2018-08-06 00:00:00 +0530",
+		  "shortdate"  : "August 06, 2018"
+		} ,
+	
+		{
 		  "title"      : "Nihal&#39;s internship at Mercari &#39;18",
 		  "category"   : "",
 		  "url"        : "https://blog.wncc-iitb.org/internship/nihal-mercari.html",
 		  "date"       : "2018-07-16 00:00:00 +0530",
 		  "shortdate"  : "July 16, 2018"
-		} ,
-	
-		{
-		  "title"      : "Dhanvi&#39;s internship at HUL &#39;18",
-		  "category"   : "",
-		  "url"        : "https://blog.wncc-iitb.org/internship/dhanvi-HUL.html",
-		  "date"       : "2018-07-16 00:00:00 +0530",
-		  "shortdate"  : "July 16, 2018"
-		} ,
-	
-		{
-		  "title"      : "Meet&#39;s internship at Amazon &#39;17",
-		  "category"   : "",
-		  "url"        : "https://blog.wncc-iitb.org/internship/udiboy-amazon.html",
-		  "date"       : "2017-07-16 00:00:00 +0530",
-		  "shortdate"  : "July 16, 2017"
 		} ,
 	
 		{
@@ -41,11 +33,19 @@
 		} ,
 	
 		{
+		  "title"      : "Meet&#39;s internship at Amazon &#39;17",
+		  "category"   : "",
+		  "url"        : "https://blog.wncc-iitb.org/internship/udiboy-amazon.html",
+		  "date"       : "2017-07-11 00:00:00 +0530",
+		  "shortdate"  : "July 11, 2017"
+		} ,
+	
+		{
 		  "title"      : "Abhijit Tomar&#39;s Internship at Microsoft IDC &#39;16",
 		  "category"   : "",
 		  "url"        : "https://blog.wncc-iitb.org/internship/tomar-idc.html",
-		  "date"       : "2016-07-16 00:00:00 +0530",
-		  "shortdate"  : "July 16, 2016"
+		  "date"       : "2016-07-12 00:00:00 +0530",
+		  "shortdate"  : "July 12, 2016"
 		} 
 	
 ]

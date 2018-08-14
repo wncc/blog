@@ -12,59 +12,60 @@ published: true
 author_name: Kalpesh Krishna
 author_website: https://martiansideofthemoon.github.io
 author_image: https://avatars1.githubusercontent.com/u/8805240
-author_description: My name is Kalpesh Krishna, and I’m a senior undergraduate student of Electrical Engineering at IIT Bombay.
+author_description: My name is Kalpesh Krishna, and I am a PhD student in Computer Science at UMass Amherst. I recently graduated from the EE department at IIT Bombay.
 ---
 
-It’s been a week at Chicago and I’m having a really unique experience here. As I mentioned in my previous post, I have been selected as a visiting researcher at the Toyota Technological Institute at Chicago, a CS research institute located on the University of Chicago campus. Life is so different here, in both good and bad ways. I will be in Chicago for seven more weeks, working on encoders for automatic speech recognition tasks.
+*This blog has been adapted from the author's [Insight Summer Blog](http://summerblog.insightiitb.org/ttic-the-university-of-chicago-kalpesh-krishna/). It was written during the internship.*
 
-# Arrival
+"Do you see that old building on the left? That's the Chicago Post Office. That's where Joker robbed the bank. Right in front of us you can see the Sears Tower, the second tallest building of the Western Hemisphere. That's where Batman would spend his nights surveying Gotham!", exclaimed the tour guide during the architecture boat cruise. I'm very fortunate to be spending summer 2017 at Chicago, USA. I'm working at [TTIC](http://ttic.edu/), which is a computer science institute at [The University of Chicago](https://www.uchicago.edu/).
 
-I arrived on 21st May after a comfortable 16 hour Air India flight. The [O'Hare Airport](http://www.flychicago.com/ohare/home/pages/default.aspx) had a very small international arrival section, and I couldn't find any SIM card or shuttle stores. I decided to go to UChicago by taxi (A 45km ride), which cost me whopping 61$! My friend, [Vishnu Nair](https://www.linkedin.com/in/vishnu-nair-9393a34b/?ppe=1), an alumni of IIT Bombay showed me around the place and helped me get setup. It's a really amazing campus, with ivy covered buildings, ancient architecture, huge gardens and the most stunning libraries I've ever seen. UChicago is world renowned for its programs in pure science, arts, mathematics and CS theory. There are no clear-cut engineering departments here, and most of the engineering is integrated with the sciences. I walked a lot on my first day and got myself a number of useful items such as a SIM card and public transport card. I opened up my bank account and got a UChicago identity card on the following day.
+# Getting There
 
-{: .center}
-![Gear](http://martiansideofthemoon.github.io/assets/uchicago-ivy.jpg "Gear"){:style="max-height: 500px;"}
+In my winter vacations, I'd started working on a project at the CSE Department in IIT Bombay on language modelling. During the month of February 2017, my professor recommended me to apply to three university research programs including TTIC's. TTIC's selection program did not have any interview, but it included two recommendation letters and a personal statement. I got through two of the three programs and decided to go ahead with TTIC since it had a great research group and a flexible schedule.
 
-{: .center}
-![Gear](http://martiansideofthemoon.github.io/assets/uchicago-park.jpg "Gear"){:style="max-height: 500px;"}
+I had a hard time with the J-1 visa, which delayed my internship by three weeks. Unfortunately, the HR head of TTIC was not working in the first half of April, which delayed my DS-2019 (a document necessary to apply for the visa). Luckily, my application was accepted immediately after the interview and I left for Chicago on 20th May. (I've [blogged](http://martiansideofthemoon.github.io/2017/05/17/applying-for-j1.html) about the J-1 process!)
 
+The day I arrived, I was lucky to be hosted by an IITB alumnus (Vishnu Nair), who showed me around UChicago and helped me get setup.
 
-# First Work Day
-I first visited TTIC on my second day (22nd May), for an HR orientation and a meeting with my advisors. TTIC is a small CS-oriented institute which is doing some amazing work in Machine Learning and CS Theory. After a short HR meeting, I finally met my advisors, [Liang Lu](http://ttic.uchicago.edu/~llu/), [Kevin Gimpel](http://ttic.uchicago.edu/~kgimpel/) and [Karen Livescu](http://ttic.uchicago.edu/~klivescu), all of whom are working on speech and language processing. Since I had some setup work remaining, we decided to push our meeting for the next day. I attended a talk by [Aron Culotta](http://cs.iit.edu/~culotta/) at TTIC the same day before finally heading out to finish my setup chores. By evening, I was given a computer (with a cool GPU) to work on, access to the TTIC computation clusters and met up with all the other awesome people working in the [SLATTIC](http://ttic.uchicago.edu/~klivescu/SLATTIC/) group at TTIC.
+# The University of Chicago
 
-In the evening, I met my roommate [Arasu Arun](https://www.facebook.com/thearasuarun), who is also working at TTIC this summer on CS theory. Thus began a unqiue week of adventures of living truly on my own!
-
-# Living Alone
-
-One of the highlights of this week has been the experience of living on my own. It’s the first time that I’ve stepped into the kitchen and managed to cook (and sometimes undercook) simple stuff. Arasu has never cooked earlier either, so it’s fun experimenting together in the kitchen. This has also required regular visits to the American grocery shops, weekly laundry, washing utensils and keeping the house clean.
+The University of Chicago is one of the best places in the world to study pure science, mathematics, arts and business. Our ex-RBI governor [Raghuram Rajan](https://en.wikipedia.org/wiki/Raghuram_Rajan) is a professor at UChicago's business school. Unlike most colleges, it does not have clear-cut engineering programs. It's a really amazing campus, with ivy covered buildings, archaic architecture, huge gardens and the most stunning libraries I've ever seen. The college is extremely academics oriented, and you will rarely find the libraries even half-empty. Since the streets and surrounding neighbourhoods aren't the safest areas, you won't find much activity on the streets after it gets dark. Luckily, UChicago houses one of the largest private police force in the world, which patrols the campus throughout the day.
 
 {: .center}
-![Gear](https://summerblog.insightiitb.org/wp-content/uploads/2017/06/mansueto-768x432.jpg "Gear"){:style="max-height: 500px;"}
+![Gear](http://summerblog.insightiitb.org/wp-content/uploads/2017/06/uchicago-ivy-1024x576.jpg "Ivy Buildings at UChicago"){:style="max-height: 500px;"}
 
-# The Good Parts
-* **Research Atmosphere** - The environment at TTIC is absolutely amazing. The whole institute has just about 25 professors, 40-45 PhD students, 10 administrative staff and 15 interns, so it's a really close knit group. There are reading groups, institute lectures, course lectures and group meetings every week, and I've spent most of my first week attending each of these research talks (I've attended roughly five in just 4 days!). While I find it hard to follow many of them (due to a limited ML background), it's inspiring to see good ideas being extensively discussed.
-
-  I generally have lunch with the other people in [SLATTIC](http://ttic.uchicago.edu/~klivescu/SLATTIC/), so it's fun to discuss ideas with them and get to know about their backgrounds. In a week, I already feel close to a lot of [SLATTIC](http://ttic.uchicago.edu/~klivescu/SLATTIC/) members.
-  I have a cubicle and a whiteboard to myself along with a printer next door, so it's pretty convenient for me to print research papers and immediately begin reading them in a printed format.
-
-* **Computation Infrastructure** - While I've not used this extensively yet, the clusters are pretty good for research work. The IT director at TTIC has setup a good automated system to schedule jobs making research a lot faster. I really should start using it soon! The internet speed is the best I've seen so far, reaching close to a 1 Gbps.
-
-* **Libraries** - Like I mentioned earlier, the seven libraries / reading rooms on-campus are amazing buildings. I've heard they boast an extensive collection of books and an automated system to fetch them. In fact, I'm writing this blog sitting in the one pictured below!
+{: .center}
+![Gear](http://summerblog.insightiitb.org/wp-content/uploads/2017/06/mansueto-1024x576.jpg "Mansueto Library"){:style="max-height: 500px;"}
 
 
-# The Bad Parts
-* **Crime in Chicago** - This is a serious issue, and every week a crime is reported in the campus despite extensive patrol by the UChicago Police Department. There are strict instructions to stay indoors after 8:00PM (VERY unlike IIT Bombay), since the night-time is supposed to be the most unsafe. As a result, I generally begin work quite early (at about 8:30AM) and never work after 6:00PM. The campus is a bit lonely in the more residential areas and you need to keep an eye while you move around.
-* **Food** - I've not really enjoyed the food here (atleast so far, since I've been experimenting a lot). While the salads and fruits are good, I've not particularly enjoyed the non-veg food or some of the ready-to-eat food. It's not super expensive (like in London), but perhaps 2-2.5 times the equivalent INR price. Meals are eaten a lot earlier in USA, and I'm generally eating my dinners at 7:00PM.
-* **General Fatigue** - Unlike India, I seem to be getting a lot more tired here, despite the additional hours of sleep. Perhaps this is typical of a grad-school sort of life, where it's a lot more tiring to work on the same problem all day, or it might just be due to the weather / long walks. I sometimes feel more inefficient here when compared to IIT Bombay, where I end up working 24x7 on some weeks.
+# TTIC & Work
 
-# Mixed Feelings
+TTIC is a graduate computer science institute in The University of Chicago. It primarily focuses on theoretical computer science, machine learning and bioinformatics research and has some excellent faculty. Since it's a relatively small setup (roughly 1:1 faculty-student ratio), it's an extremely informal environment. The research atmosphere at TTIC is amazing! Every week, there are tons of reading groups, distinguished lecture series and course lectures. I've been lucky enough to attend talks by [Junyoung Chung](https://sites.google.com/site/junyoungchung08/), [Erik Learned-Miller](http://people.cs.umass.edu/~elm/) and I'm really looking forward to next week's talk by the head of Google Translate, [Mike Schuster](https://research.google.com/pubs/MikeSchuster.html)! I'm hoping to lead one reading group session towards the end of the internship.
 
-* **Weather** - The weather this week has been really erratic. While its extremely pleasant and windy while the sun is out, it gets pretty cold with overcast skies and rain. Luckily, I'm not visiting during the winter months which are supposed to be the worst. Nevertheless, the cool weather is an good change from the Indian summer heat, and it's likely to be more sunny in the coming days.
-* **Extracurricular Events** - There seem to be less social extra-curricular events here when compared to IIT Bombay. While it's likely that I'm unaware of what's going on in campus, I get the feeling that UChicago is more of an academic oriented college having strong graduate programs, with a strong focus on academia, which is both good and bad. However, this opinion is likely to change as the summer progresses.
+I'm working at the [SLATTIC](http://ttic.uchicago.edu/~klivescu/SLATTIC/) group, guided by three awesome professors. It's a really diverse set of people and I love listening to their PhD stories and their discussions on AI and Computer Science. My project is on modern end-to-end Automatic Speech Recognition systems, the heart of today's Siri and Cortana. I'm trying to build encoder architectures to speed up the training procedure for Connectionist Temporal Classification, one of the two state-of-the-art techniques for ASR systems. Unfortunately, ASR is a hard problem and training neural networks for speech recognition can often be challenging and tedious. Typical state-of-the-art architectures take 4-5 days to train and need expensive GPUs to make this possible. Luckily, TTIC has a really good GPU cluster and automation, which I've been trying to make the most of in the last couple of weeks. Along with the project, I'm trying to make some tools to increase research efficiency. A typical day of work here generally starts with reading an ASR paper, attending a talk / reading group, excellent discussions during lunch and a lot of programming (and debugging!). Towards the evening, I spend 1-2 quality hours ideating or reading in the Mansueto Library, my favourite place at UChicago.
 
-# Work Experience
+{: .center}
+![Gear](http://summerblog.insightiitb.org/wp-content/uploads/2017/06/research_group-1.jpg "Karen Livescu's Research Group"){:style="max-height: 500px;"}
 
-While interactions with my advisors have been great so far, my progress has been on the slower side. I suppose this is because a few days went in a general setup and adjustment, and I’ve spent a lot of time attending talks and reading groups. I really wish I was interning here for longer, (perhaps 10-12 weeks), since it would give me a stronger chance to finish substantial work. I’m currently working on encoders to improve Automatic Speech Recognition systems. I hope to implement dilated CNNs in place of regular bidirectional LSTMs and compare their performance over the next few weeks. I’ve also been reading a lot of papers in speech recognition, and it’s a really vibrant field with a lot of ongoing research. In my free time this week, I completed [The PhD Grind](http://pgbovine.net/PhD-memoir/pguo-PhD-grind.pdf), a really interesting Stanford PhD memoir.
+# Accommodation, Transport and Food
+
+I've been living at an apartment sublet with another TTIC intern from IIT Hyderabad. Housing is generally quite expensive in Chicago and it was a hard time searching for a reasonably priced housing for our duration of stay, and we finally settled for a 4 week sublease. My current house is 1 KM from TTIC and I generally go around on foot, walking about 4 KM daily due to the library visits. Chicago has a good cheap public transport system, and most of my longer trips are by CTA's buses.
+
+Food has been a real issue since I don't know how to cook. I don't really enjoy the non-vegetarian food here, but sadly it's hard to find anything else. Nonetheless, Chicago is known for its deep-crust pizza, and it certainly lives up to its reputation!
+
+
+# Chicago & Tourism
+
+Chicago is popularly called “The Windy City”. It's got really unpredictable ever-changing weather, and I've had my share of severe thunderstorms, Mumbai-like heat and of course the crazy winds. While often defamed for its crime rate, most neighbourhoods are pretty safe. Located on Lake Michigan, Chicago is known for its bold architecture and skyline. So far I've visited Millennium Park, Shedd Aquarium, Navy Pier and the brilliant Architecture River Cruise. I also visited a really expensive theatre to watch Pirates of the Caribbean (big mistake). Hopefully I will hopefully cover all the major tourist attractions here by the end of my trip including a long cycling tour along Lake Michigan!
+
+While a lot of things are much easier in USA, I get the feeling that people don't like being dependent on others here. The streets are generally lonely on weekends and lots of residents tell me that the social life is really lacking here. Most shops generally close by 6pm, and most of the neighbourhoods are pretty deserted after sunset, making it too unsafe to loiter on the streets at midnight – something I'm so used to doing at IITB! Nevertheless, downtown Chicago is full of activity and tourists 24x7 with concerts and shows happening all year long.
+
+{: .center}
+![Gear](http://summerblog.insightiitb.org/wp-content/uploads/2017/06/sears_tower-1024x576.jpg "Sears Tower"){:style="max-height: 500px;"}
+
+{: .center}
+![Gear](http://summerblog.insightiitb.org/wp-content/uploads/2017/06/museum_campus-1024x576.jpg "Museum Campus"){:style="max-height: 500px;"}
 
 # Conclusion
 
-This week has been unlike anything I’ve experienced so far. I hope to visit lake Michigan and a museum tomorrow, which is a holiday due to Memorial Day. I think my work will soon pace up, and hopefully I’ll have a good technical story to tell at the end of the internship. Overall I’m quite happy and really excited about the adventures which are to follow!
+I'm close to halfway through my internship and it's been a great experience so far. Work has been progressing slow up till now, but I'm hoping to speed up towards the second half. I've learnt a lot of academic and non-academic things, and I'm really looking forward to the next four weeks at Chicago!
